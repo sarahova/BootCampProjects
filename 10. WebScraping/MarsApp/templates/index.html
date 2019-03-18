@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>MarsFlaskApp</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+    </head>
+
+    <body>
+        <div class="container">
+            
+            <div class="jumbotron text-center">
+                <h1>Mission to Mars</h1>
+
+                <form action="/" method='GET'>                  
+                <button name='scrape' type='submit'>Scrape New Data</button>
+                </form>  
+
+            </div>
+            
+
+            <div class="row">
+                <div class="col-md-8">
+                    <h2>Featured Image</h2>
+                    <h3 id="img_title">Featured Image</h3>
+                    <img src="" alt="Featured Image" id="feat_img", style="max-width:98%">
+                </div>
+
+                <div class="col-md-4">
+                    <div class="row">
+                    
+                        <h2>Latest Mars Tweet</h2>
+                        <p id="mars_weather"></p>
+                        <div class="row">
+                        
+                        <h2>Mars Facts</h2>
+                        <table class="table-striped marsFacts">
+                            <tbody>
+                            </tbody>
+                        </table>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <h2 class="marsHemi">Mars Hemispheres</h2>
+            </div>
+
+            <div class=row>
+                <div class="col-md-6">
+                    <h3 id="hemi_name_1"></h3>
+                    <img src="" alt="Hemisphere1" id="hemi_1", style="max-width:100%">
+                </div>
+                <div class="col-md-6">
+                    <h3 id="hemi_name_2"></h3>
+                    <img src="" alt="Hemisphere2" id="hemi_2", style="max-width:100%">
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <h3 id="hemi_name_3"></h3>
+                    <img src="" alt="Hemisphere3" id="hemi_3", style="max-width:100%">
+                </div>
+                <div class="col-md-6">
+                    <h3 id="hemi_name_4"></h3>
+                    <img src="" alt="Hemisphere4" id="hemi_4", style="max-width:100%">
+                </div>
+            </div>
+
+            <script>
+            function getData(){
+
+                var theUrl = "http://127.0.0.1:4996/scrape";
+                    //try d3.json('file path or url)
+                    
+                    $.ajax({
+                        type: "GET",
+                        dataType:"json",
+                        url: theUrl,
+                        success: function(data){
+                        // console.log(data);
+
+                        var ImgTitle=data[1]["Title"]
+                        var FeatImg=data[1]["Source"]
+                        d3.select("#img_title").html(ImgTitle)
+                        d3.select("#feat_img").attr('src', FeatImg)
+
+                        var MarsWeather=data[0]['Mars Weather']
+                        d3.select("#mars_weather").html(MarsWeather)
+
+                        var MarsHemi1=data[2]["Cerberus Hemisphere"]
+                        var MarsHemi2=data[2]["Schiaparelli Hemisphere"]
+                        var MarsHemi3=data[2]["Syrtis Major Hemisphere"]
+                        var MarsHemi4=data[2]["Valles Marineris Hemisphere"]
+                        
+                        d3.select("#hemi_1").attr('src', MarsHemi1)
+                        d3.select("#hemi_2").attr('src', MarsHemi2)
+                        d3.select("#hemi_3").attr('src', MarsHemi3)
+                        d3.select("#hemi_4").attr('src', MarsHemi4)
+                        
+                        var HemiNames=Object.keys(data[2])
+                        d3.select("#hemi_name_1").html(HemiNames[0])
+                        d3.select("#hemi_name_2").html(HemiNames[1])
+                        d3.select("#hemi_name_3").html(HemiNames[2])
+                        d3.select("#hemi_name_4").html(HemiNames[3])
+                        
+                         var MarsFacts=data[3]
+                        var TableFacts=d3.select("table>tbody")
+                        
+                        Object.entries(MarsFacts).forEach(function ([key,value]){
+                            var row=TableFacts.append('tr')
+                            var cell1=row.append('td')
+                            var cell2=row.append('td')
+                            cell1.text(key)
+                            cell2.text(value)
+                            });
+                        }
+                    });
+                }
+                getData();
+            </script>
+
+        </div>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
+    </body>
+
+    <style>
+    div{
+        padding:5px
+    }
+
+    .marsFacts{
+        border:solid;
+    }
+    </style>
+
+</html>
