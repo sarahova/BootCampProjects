@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Wind Speed</title>
+	<link rel="stylesheet" href="../css/style.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+	<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+  <script src="../script/script.js"></script>
+</head>
+<body>
+	<nav class="navbar navbar-expand-lg navbar-light bg-menu-color" style="text-align: center;">
+	    <!-- <a class="navbar-brand" href="#">Navbar</a> -->
+	    <div class="theTitle"><a href="index.html">Lattitude</a></div>
+	    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+	        <span class="navbar-toggler-icon"></span>
+	    </button>
+	    <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+	        <ul class="navbar-nav">
+	            <!-- <li class="nav-item">
+	                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+	            </li> -->
+	            <li class="nav-item dropdown active">
+	                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Plots</a>
+
+	                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink" style="text-align: center;">
+	                    <a class="dropdown-item" href="max-temp.html">Max Temperature</a>
+	                    <a class="dropdown-item" href="humidity.html">Humidity</a>
+	                    <a class="dropdown-item" href="cloudiness.html">Cloudiness</a>
+	                    <a class="dropdown-item" href="wind-speed.html">Wind Speed</a>
+	                </div>
+	            </li>
+	            <li class="nav-item">
+	                <a class="nav-link" href="comparison.html">Comparison</a>
+	            </li>
+	            <li class="nav-item">
+	                <a class="nav-link" href="data.html">Data</a>
+	            </li>   
+	        </ul>
+	    </div>
+	</nav>
+
+
+	<div class="container"> <!-- put all content inside of here -->
+
+		<div class=row>
+			<div class="col-md-8" class=Summary>
+				<h1 class="Title">Wind Speed</h1>
+				<img src="../images/Fig4.png" class=VisImage>
+				<p class="p">
+				Prevailing winds are winds that blow predominantly from an individual direction over a particular point on the Earth's surface. 
+				The dominant winds are the trends in direction of wind with the highest speed over a particular point on the Earth's surface. 
+				A region's prevailing and dominant winds are enacted by global patterns of movement in the Earth's atmosphere. 
+				In general, easterly flow occurs at low and medium latitudes globally. 
+				In the mid-latitudes, westerly winds are the rule and their strength is largely determined by the polar cyclone. 
+				In areas where winds tend to be light, the sea breeze/land breeze cycle is the most important to the prevailing wind; in areas which have variable terrain, mountain and valley breezes dominate the wind pattern. 
+				Highly elevated surfaces can induce a thermal low, which then augments the environmental wind flow.
+				</p>
+
+			</div>
+
+			<div class="col-md-4" class=VisualizationMenu>
+				<h1 class="Title">Visualization</h1>
+				<div class="row">
+					<div class="col-md-6 col-sm-3">
+						<a href="max-temp.html"><img src="../images/Fig1.png" class="theImage"></a>
+					</div>
+					<div class="col-md-6 col-sm-3">
+						<a href="humidity.html"><img src="../images/Fig2.png" class="theImage"></a>
+					</div>
+					<div class="col-md-6 col-sm-3">
+						<a href="cloudiness.html"><img src="../images/Fig3.png" class="theImage"></a>
+					</div>
+					<div class="col-md-6 col-sm-3">
+						<a href="wind-speed.html"><img src="../images/Fig4.png" class="theImage imageBorder"></a>
+					</div>
+				</div>
+			</div>
+
+		<div>
+
+	</div> <!-- the end of the container div -->
+
+
+
+
+
+
+</body>
+</html>

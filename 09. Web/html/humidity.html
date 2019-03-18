@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Humidity</title>
+	<link rel="stylesheet" href="../css/style.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+	<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+  <script src="../script/script.js"></script>
+</head>
+<body>
+	<nav class="navbar navbar-expand-lg navbar-light bg-menu-color" style="text-align: center;">
+	    <!-- <a class="navbar-brand" href="#">Navbar</a> -->
+	    <div class="theTitle"><a href="index.html">Lattitude</a></div>
+	    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+	        <span class="navbar-toggler-icon"></span>
+	    </button>
+	    <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+	        <ul class="navbar-nav">
+	            <!-- <li class="nav-item">
+	                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+	            </li> -->
+	            <li class="nav-item dropdown active">
+	                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Plots</a>
+
+	                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink" style="text-align: center;">
+	                    <a class="dropdown-item" href="max-temp.html">Max Temperature</a>
+	                    <a class="dropdown-item" href="humidity.html">Humidity</a>
+	                    <a class="dropdown-item" href="cloudiness.html">Cloudiness</a>
+	                    <a class="dropdown-item" href="wind-speed.html">Wind Speed</a>
+	                </div>
+	            </li>
+	            <li class="nav-item">
+	                <a class="nav-link" href="comparison.html">Comparison</a>
+	            </li>
+	            <li class="nav-item">
+	                <a class="nav-link" href="data.html">Data</a>
+	            </li>   
+	        </ul>
+	    </div>
+	</nav>
+
+	<div class="container"> <!-- put all content inside of here -->
+
+		<div class=row>
+			<div class="col-md-8" class=Summary>
+				<h1 class="Title">Humidity</h1>
+				<img src="../images/Fig2.png" class=VisImage>
+				<p class="p">
+				Specific humidity is at a maximum in the Tropics and declines as one moves poleward reaching minimum values in each polar region. 
+				This implies that the air in the most "arid" desert regions of the planet (30 degrees N or S latitude) actually contains more water vapor than temperate regions much farther north, and certainly more than the polar regions.
+				</p>
+
+			</div>
+
+			<div class="col-md-4" class=VisualizationMenu>
+				<h1 class="Title">Visualization</h1>
+				<div class="row">
+					<div class="col-md-6 col-sm-3">
+						<a href="max-temp.html"><img src="../images/Fig1.png" class="theImage"></a>
+					</div>
+					<div class="col-md-6 col-sm-3">
+						<a href="humidity.html"><img src="../images/Fig2.png" class="theImage imageBorder"></a>
+					</div>
+					<div class="col-md-6 col-sm-3">
+						<a href="cloudiness.html"><img src="../images/Fig3.png" class="theImage"></a>
+					</div>
+					<div class="col-md-6 col-sm-3">
+						<a href="wind-speed.html"><img src="../images/Fig4.png" class="theImage"></a>
+					</div>
+				</div>
+			</div>
+
+		<div>
+
+	</div> <!-- the end of the container div -->
+
+
+
+
+
+
+</body>
+</html>

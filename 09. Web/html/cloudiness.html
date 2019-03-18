@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Cloudiness</title>
+	<link rel="stylesheet" href="../css/style.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+	<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+  <script src="../script/script.js"></script>
+</head>
+<body>
+	<nav class="navbar navbar-expand-lg navbar-light bg-menu-color" style="text-align: center;">
+	    <!-- <a class="navbar-brand" href="#">Navbar</a> -->
+	    <div class="theTitle"><a href="index.html">Lattitude</a></div>
+	    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+	        <span class="navbar-toggler-icon"></span>
+	    </button>
+	    <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+	        <ul class="navbar-nav">
+	            <!-- <li class="nav-item">
+	                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+	            </li> -->
+	            <li class="nav-item dropdown active">
+	                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Plots</a>
+
+	                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink" style="text-align: center;">
+	                    <a class="dropdown-item" href="max-temp.html">Max Temperature</a>
+	                    <a class="dropdown-item" href="humidity.html">Humidity</a>
+	                    <a class="dropdown-item" href="cloudiness.html">Cloudiness</a>
+	                    <a class="dropdown-item" href="wind-speed.html">Wind Speed</a>
+	                </div>
+	            </li>
+	            <li class="nav-item">
+	                <a class="nav-link" href="comparison.html">Comparison</a>
+	            </li>
+	            <li class="nav-item">
+	                <a class="nav-link" href="data.html">Data</a>
+	            </li>   
+	        </ul>
+	    </div>
+	</nav>
+
+	<div class="container"> <!-- put all content inside of here -->
+
+		<div class=row>
+			<div class="col-md-8" class=Summary>
+				<h1 class="Title">Cloudiness</h1>
+				<img src="../images/Fig3.png" class=VisImage>
+				<p class="p">
+				Continents tend to be less cloudy than adjacent oceans (at the same latitude), except in the equatorial belt. 
+				On average, cloudiness is highest around 60degS (about 80% of the time) but there is only 40% cloud cover at the South Pole. 
+				This figure reflects the ascent and subsidence occurring at these respective latitudes, and the large amount of ocean at around 60degS. 
+				Satellite-based cloudiness estimates over surfaces covered by snow or ice are somewhat uncertain, especially at night.
+				</p>
+				<p class="p">
+				The subsidence at 20 - 30 degrees latitude in both hemispheres leads to 45 - 50% cloud cover there.
+				This is mostly stratus clouds off the west coasts of continents, and cumulonimbus clouds over the continents in summer. 
+				At latitudes above 50degN, the annual average cloud cover is about 70%. 
+				At the North Pole there is 50% cloudiness in winter and 90% in summer.
+				</p>
+			</div>
+
+			<div class="col-md-4" class=VisualizationMenu>
+				<h1 class="Title">Visualization</h1>
+				<div class="row">
+					<div class="col-md-6 col-sm-3">
+						<a href="max-temp.html"><img src="../images/Fig1.png" class="theImage"></a>
+					</div>
+					<div class="col-md-6 col-sm-3">
+						<a href="humidity.html"><img src="../images/Fig2.png" class="theImage"></a>
+					</div>
+					<div class="col-md-6 col-sm-3">
+						<a href="cloudiness.html"><img src="../images/Fig3.png" class="theImage imageBorder"></a>
+					</div>
+					<div class="col-md-6 col-sm-3">
+						<a href="wind-speed.html"><img src="../images/Fig4.png" class="theImage"></a>
+					</div>
+				</div>
+			</div>
+
+		<div>
+
+	</div> <!-- the end of the container div -->
+
+
+
+
+
+
+</body>
+</html>

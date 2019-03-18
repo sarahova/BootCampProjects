@@ -1,0 +1,72 @@
+.bg-menu-color{
+	background: #f441e5
+}
+.theTitle{
+    font-size: 26px;
+    font-weight: 700;
+}
+.theTitle a{
+	color: white;
+	text-shadow:1px 1px 1px rgba(0,0,0,.5);
+}
+.theTitle a:hover{
+	color:white;
+	text-shadow:2px 2px 2px rgba(0,0,0,.5);
+	text-decoration:none;
+}
+
+.dropdown-menu.show{
+	background-color: #f441e5 !important;
+	border:0px !important;
+}
+.dropdown-item:hover{
+	background-color: transparent !important;
+	color: rgba(0,0,0,.5) !important;
+}
+
+nav button:focus{
+	outline: 5px auto white !important;
+}
+
+.Title{
+	color:#f704e3;
+	border-color: black;
+}
+
+.Summary{
+	background-color: grey;
+	border-style: solid;
+}
+
+.HomeImage{
+    max-width: 500px;
+	float:left;
+}
+
+.VisImage{
+	max-width: 100%;
+	float:left;
+}
+
+.VisualizationMenu{
+	clear:left;
+	background-color: grey;
+	border-style: solid;
+}
+
+.theImage{
+	max-width:100%;
+	padding:2px;
+}
+
+.p{
+	font-size: 20px;
+}
+
+.imageBorder{
+	border: solid 3px #f441e5;
+}
+
+.table{
+	border: solid 1px #000;
+}
