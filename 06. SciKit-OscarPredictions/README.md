@@ -122,6 +122,10 @@ So what has this all taught me....
 * The model does not take into account social issues (e.g. #OscarsSoWhite, demographics, Harvey Weinstein scandal, etc.)
 
 
+### Copyright
+
+Coding Boot Camp © 2018. All Rights Reserved.
+
 
 
 
