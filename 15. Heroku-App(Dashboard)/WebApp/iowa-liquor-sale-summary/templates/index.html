@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Iowa Liquor Sale Summary</title>
+
+  <!-- Leaflet CSS & JS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+  integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+  crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+  integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+  crossorigin=""></script>
+  
+  <!-- Bootstrap -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" 
+  integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+  <!--d3 CDN-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.1/d3.js"></script>
+  
+  <!--Plotly CDN-->
+  <!-- <script src="https://cdn.plot.ly/plotly-latest.min.js"></script> -->
+
+  <!-- Our CSS -->
+  <link rel="stylesheet" type="text/css" href="/static/css/style.css">
+
+  <!-- JSON file with counties -->  
+  <script type="text/javascript" src="/static/js/iowacounties.json"></script>
+  <link rel="icon" href="data:;base64,=">
+</head>
+
+<body>
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12 jumbotron text-center">
+      <h1>Iowa Liquor Sale Summary by County</h1>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-6 col-lg-6">
+      <h3>Pick a County</h3>
+      <div id="map"></div>
+    </div>
+    <div class="col-md-6 col-lg-6">
+      <h3>Pick a Liquor Category</h3>
+      <select id="category">
+        <option class="default" value='default'> -- select an option -- </option>
+      </select>
+      <div id="chart"></div>
+    </div>
+  </div>
+
+</div>  
+ 
+  <!-- API key -->
+  <script type="text/javascript" src="/static/js/config.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.9.1/d3-tip.js"></script>
+
+  <!-- Our JS -->
+  <script type="text/javascript" src="/static/js/logic.js"></script>
+</body>
+</html>

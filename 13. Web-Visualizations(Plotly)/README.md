@@ -36,12 +36,16 @@ Use Plotly.js to build interactive charts for your dashboard.
 
   * Display each key/value pair from the metadata JSON object somewhere on the page
 
+  ![Meta Data](Images/metadata.png)  
+
 * Create a Gauge plot (a donut pie chart with half not filled out) to the washing frequency of a sample from 0-9.
 
 ![Weekly Washing Frequency Gauge](Images/gauge.png)
 
 
-* Update all of the plots any time that a new sample is selected.
+* Update all of the plots any time that a new sample is selected from the dropdown.
+
+![Dropdown](Images/dropdown.png)
 
 
 
