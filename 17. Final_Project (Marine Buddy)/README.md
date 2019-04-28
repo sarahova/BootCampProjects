@@ -2,7 +2,7 @@
 
 ## Background
 
-![Home](Images/Home.png)
+![Home](Images/Home.PNG)
 
 I love Scuba Diving! I revolve all of my vacations around scuba diving. The inspiration for this project came from problems I was facing during my vacation planning. When planning a trip I quickly had 10+ tabs open all with little bits of information that I was seeking while planning. In a nutshell....I plan my vacations one of two ways:
 
