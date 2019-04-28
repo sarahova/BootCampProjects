@@ -1,0 +1,277 @@
+body{
+  margin-top: 100px;
+}
+#map{
+    height: 600px;
+  }
+
+@media(max-width:1000px){
+  #map{
+    height: 500px;
+  }
+}
+
+h1{
+	font-size:2rem;
+}
+
+#category{
+  width: 100%;
+  height:30px;
+}
+
+.flip-card {
+    background-color: transparent;
+    width: 300px;
+    height: 300px;
+    perspective: 1000px;
+  }
+  
+  .flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  }
+  
+  .flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+  
+  .flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+  }
+  
+  .flip-card-front {
+    background-color: #ffffff;
+    color: black;
+    z-index: 2;
+  }
+  
+  .flip-card-back {
+    background-color: #2980b9;
+    color: white;
+    transform: rotateY(180deg);
+    z-index: 1;
+    padding:10px;
+  }
+  .flip-card-back p{
+  	margin-bottom:.5rem;
+  }
+
+  .thePictures{
+      max-width: 100%;
+  }
+
+  .cardsBtn{
+  	background-color:white;
+  	color:#2980b9;
+  	margin:0 5px;
+  }
+  .cardsBtn:hover{
+  	background-color: #bbb;
+  	color:#2980b9;
+  }
+
+  .titleWrap{
+	margin-top: 20px;
+	text-align: center;
+}
+
+.row{
+	margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+
+.navbar.navbar-expand-lg.navbar-light.bg-light{
+  
+    /*position: fixed;
+    width: 100%;
+    z-index: 100;*/
+    background-color: #064273 !important;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10000;
+}
+.nav-item.nav-link{
+  color:white !important;
+}
+.nav-item.nav-liink:hover{
+  color:#DCDCDC !important;
+}
+.navbar-brand{
+  color:white !important;
+  text-shadow: 1px 1px 1px #1da2d8;
+}
+
+.homeText{
+  font-size: 24px;
+}
+
+.founders li{
+  list-style: none;
+  font-size: large;
+}
+.footer{
+background:#064273;
+padding:20px;
+text-align: center;
+}
+.footer p{
+  color:white;
+  margin-bottom:0px;
+
+}
+
+.navbar-light.navbar-toggler-icon{
+  border:solid 1px white;
+}
+.countriesText{
+  text-align: center;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+.active {
+  font-weight: bold;
+  fill: #000;
+  transition: fill 0.3s ease-out;
+  text-anchor: middle;
+}
+
+.inactive {
+  font-weight: lighter;
+  fill: #c9c9c9;
+  transition: fill 0.3s ease-out;
+  text-anchor: middle;
+}
+
+.inactive:hover {
+  fill: #000;
+  cursor: pointer;
+}
+
+.tooltip {
+  padding: 6px;
+  font-size: 12px;
+  line-height: 1;
+  line-height: 1.5em;
+  color: #fff;
+  text-align: center;
+  text-transform: capitalize;
+  background: rgba(0, 0, 0, 0.8);
+  border-radius: 4px;
+}
+
+
+.chartHide{
+  display:none;
+}
+/*modal*/
+
+#modalOutter{
+  position:fixed;
+  top:0px;
+  bottom:0px;
+  left:0px;
+  right:0px;
+  background-color:rgba(46, 49, 49, .9);
+  z-index: 1000;
+}
+
+#modalInner{
+  margin:0 auto;
+  width:80%;
+  /*height:400px;
+  background-color:white;*/
+  margin-top: 7.5%;
+  border-radius: 5px;
+  text-align: center;
+}
+#modalInner img{
+  max-width: 100%;
+}
+.modalHide{
+  display: none;
+}
+.xButton{
+  position:relative;
+  background: white;
+  border:solid 1px;
+  float:right;
+  padding:0px 10px;
+  margin-right:-20px;
+  margin-top: -20px;
+  border-radius: 5px;
+}
+.xButton:hover{
+  cursor:pointer;
+}
+.xP{
+  margin-top: 0;
+    margin-bottom: 0rem;
+    font-size: 25px;
+}
+#leftarrow, #rightarrow{
+  background: white;
+  color:black;
+  margin-top: 100px;
+}
+#leftarrow:hover, #rightarrow:hover{
+  background:#bbb;
+  color:white;
+}
+#leftarrow{
+  position:absolute;
+  left: 50px;
+}
+#rightarrow{
+  position: absolute;
+  right:50px;
+}
+
+#backToTop{
+    width: 60px;
+    background: white;
+    border:solid 1px black;
+    border-radius: 2px;
+    position: fixed;
+    display: block;
+    position: fixed;
+    bottom: 10px;
+    right:-100px;
+
+}
+#backToTop img{
+  width: 100%;
+}
+
+.hideFish{
+  display:none;
+}
+.fishLoad{
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    z-index: 1000;
+    border: solid;
+    background: rgba(41, 128, 185, 0.9);
+    text-align: center;
+  }
+  
+.fishLoad img{
+  margin-top: 200px;
+}

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>MarineBuddy</title>
+  <link rel="icon" href="/static/img/mb_icon1@4x.png" style="width:50px" type="image/x-icon"/>
+  <!-- Leaflet CSS & JS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+  integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+  crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+  integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+  crossorigin=""></script>
+  
+  <!-- Bootstrap -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+   <script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+  <!--d3 CDN-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.1/d3.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <!-- JSON file with countries -->  
+  <script type="text/javascript" src="/static/js/countries.json"></script>
+
+
+   <!-- Our CSS -->
+  <link rel="stylesheet" href="../static/css/marinelifeStyle.css">
+
+</head>
+
+<body>
+
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="/">Marine Buddy</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
+        <!-- <a class="nav-item nav-link active" href="/">Home <span class="sr-only">(current)</span></a> -->
+        <a class="nav-item nav-link" href="/countries">Country Search</a>
+        <a class="nav-item nav-link" href="/marine-life">Marine Life Search</a>
+        <a class="nav-item nav-link" href="/about">How Do We Do It?</a>
+      </div>
+    </div>
+  </nav>
+  <div id="topOfPage"></div>
+
+    
+    <div class="container">
+      <div class="titleWrap">
+        <h1>Marine Life Search</h1>
+      </div>
+
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+              <p class="homeText">If you are a fish lover who wants to learn more about our colourful friends under the sea, you have come to the right place! </br></br> Select a category from the drop down below and see a treasure chest of knowledge come alive in front of you!</p>
+          </div>
+        </div>
+
+      <div class="row">
+        <div class="col-md-12">
+          <select name="categories" id="pickCategories"></select>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <h3 id='chartTitle'></h3>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <div id='chart'></div>
+        </div>
+      </div>
+
+      <div class="titleWrap">
+        <h1 id='categoryTitle'></h1>
+      </div>
+
+      <div id="showContent">
+      </div>
+
+      <div id="map"></div>
+
+    </div>
+  </div> <!-- end of container -->
+
+      <div class="footer">
+        <p>Marine Buddy 2019</p>
+      </div>
+
+  <!-- API key -->
+  <script type="text/javascript" src="/static/js/config.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.9.1/d3-tip.js"></script>
+
+  <!-- Our JS -->
+  <!-- <script type="text/javascript" src="/static/js/logic_home.js"></script>
+  <script type="text/javascript" src="/static/js/logic_countries.js"></script> -->
+  <script type="text/javascript" src="/static/js/logic_marinelife.js"></script>
+  <!-- <script type="text/javascript" src="/static/js/logic_about.js"></script> -->
+</body>
+</html>

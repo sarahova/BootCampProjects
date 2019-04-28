@@ -1,0 +1,973 @@
+common_name,scientific_name,species_id,category_id
+Moorish Idol,Zanclus cornutus,1,1
+Longsnout Butterflyfish,Prognathodes aculeatus,2,1
+Orange-Banded Coralfish,Coradion chrysozonus,3,1
+Two-Eyed Coralfish,Coradion melanopus,4,1
+Humphead Bannerfish,Heniochus varius,5,1
+Pennant Bannerfish,Heniochus chrysostomus,6,1
+Masked Bannerfish,Heniochus monoceros,7,1
+Singular Bannerfish,Heniochus singularius,8,1
+Schooling Bannerfish,Heniochus diphreutes,9,1
+Longnose Butterflyfish,Forcipiger flavissimus,10,1
+Big Longnose Butterflyfish,Forcipiger longirostris,11,1
+Foureye Butterflyfish,Chaetodon capistratus,12,1
+Spotfin Butterflyfish,Chaetodon ocellatus,13,1
+Reef Butterflyfish,Chaetodon sedentarius,14,1
+Vagabond Butterflyfish,Chaetodon vagabundus,15,1
+Atoll Butterflyfish,Chaetodon mertensii,16,1
+Crosshatch Butterflyfish,Chaetodon xanthurus,17,1
+Chevroned Butterflyfish,Chaetodon trifascialis,18,1
+Saddled Butterflyfish,Chaetodon ephippium,19,1
+Ornate Butterflyfish,Chaetodon ornatissimus,20,1
+Spot-Banded Butterflyfish,Chaetodon punctatofasciatus,21,1
+Eastern Triangular Butterflyfish,Chaetodon baronessa,22,1
+Redfin Butterflyfish,Chaetodon lunulatus,23,1
+Fourspot Butterflyfish,Chaetodon quadrimaculatus,24,1
+Speckled Butterflyfish,Chaetodon citrinellus,25,1
+Meyers Butterflyfish,Chaetodon meyeri,26,1
+Dot-Dash Butterflyfish,Chaetodon pelewensis,27,1
+Multiband Butterflyfish,Chaetodon multicinctus,28,1
+Milletseed Butterflyfish,Chaetodon miliaris,29,1
+Raccoon Butterflyfish,Chaetodon lunula,30,1
+Pacific Double-Saddle Butterflyfish,Chaetodon ulietensis,31,1
+Panda Butterflyfish,Chaetodon adiergastos,32,1
+Black-Backed Butterflyfish,Chaetodon melannotus,33,1
+Blue-Spot Butterflyfish,Chaetodon plebeius,34,1
+Dotted butterflyfish,Chaetodon semeion,35,1
+Eclipse Butterflyfish,Chaetodon bennetti,36,1
+Ovalspot Butterflyfish,Chaetodon speculum,37,1
+Teardrop Butterflyfish,Chaetodon unimaculatus,38,1
+Spot-Nape Butterflyfish,Chaetodon oxycephalus,39,1
+Latticed Butterflyfish,Chaetodon rafflesii,40,1
+Eight-Banded Butterflyfish,Chaetodon octofasciatus,41,1
+Blacklip Butterflyfish,Chaetodon kleinii,42,1
+Reticulated Butterflyfish,Chaetodon reticulatus,43,1
+Threadfin Butterflyfish,Chaetodon auriga,44,1
+Bluestripe Butterflyfish,Chaetodon fremblii,45,1
+Threebanded Butterflyfish,Chaetodon humeralis,46,1
+Pyramid Butterflyfish,Hemitaurichthys polylepis,47,1
+Blacknosed Butterflyfish,Johnrandallia nigrirostris,48,1
+Longfin Damselfish,Stegastes diencaeus,49,2
+Dusky Damselfish,Stegastes adustus,50,2
+Cocoa Damselfish,Stegastes xanthurus,51,2
+Beaugregory,Stegastes leucostictus,52,2
+Bicolor Damselfish,Stegastes partitus,53,2
+Cortez Damselfish,Stegastes rectifraenum,54,2
+Beaubrummel,Stegastes flavilatus,55,2
+Yellowtail Damselfish,Microspathodon chrysurus,56,2
+Giant Damselfish,Microspathodon dorsalis,57,2
+Golden Damselfish,Amblyglyphidodon aureus,58,2
+Staghorn Damselfish,Amblyglyphidodon curacao,59,2
+White-Belly Damselfish,Amblyglyphidodon leucogaster,60,2
+Black-Banded Damselfish,Amblypomacentrus breviceps,61,2
+Sergeant Major,Abudefduf saxatilis,62,2
+Hawaiian Sergeant,Abudefduf abdominalis,63,2
+Indo-Pacific Sergeant,Abudefduf vaigiensis,64,2
+Panamic Sergeant Major,Abudefduf troschelii,65,2
+Scissortail Sergeant,Abudefduf sexfasciatus,66,2
+Night Sergeant,Abudefduf taurus,67,2
+Blackspot Sergeant,Abudefduf sordidus,68,2
+Blue Chromis,Chromis cyanea,69,2
+Brown Chromis,Chromis multilineata,70,2
+Darkfin Chromis,Chromis atripes,71,2
+Oval Chromis,Chromis alta,72,2
+Ambon chromis,Chromis amboinensis,73,2
+Blue-Axil Chromis,Chromis caudalis,74,2
+Sunshinefish,Chromis insolata,75,2
+Blue-and-Yellow Chromis,Chromis limbaughi,76,2
+Scissortail Chromis,Chromis atrilobata,77,2
+Spiny Chromis,Acanthochromis polyacanthus,78,2
+Pink Anemonefish,Amphiprion perideraion,79,2
+Orangefin Anemonefish,Amphiprion sandaracinos,80,2
+Red And Black Anemonefish,Amphiprion melanopus,81,2
+Tomato Anemonefish,Amphiprion frenatus,82,2
+Shy Hamlet,Hypoplectrus guttavarius,83,2
+Barred Hamlet,Hypoplectrus puella,84,2
+Butter Hamlet,Hypoplectrus unicolor,85,2
+Yellowbelly Hamlet,Hypoplectrus aberrans,86,2
+Blue Hamlet,Hypoplectrus gemma,87,2
+Indigo Hamlet,Hypoplectrus indigo,88,2
+Yellowtail Hamlet,Hypoplectrus chlorurus,89,2
+Black Hamlet,Hypoplectrus nigricans,90,2
+Tan Hamlet,Hypoplectrus randallorum,91,2
+Black Jack,Caranx lugubris,92,3
+Horse-Eye Jack,Caranx latus,93,3
+Blue Runner,Caranx crysos,94,3
+Bluefin Trevally,Caranx melampygus,95,3
+Barcheek Trevally,Carangoides plagiotaenia,96,3
+Bar Jack,Caranx ruber,97,3
+Yellow Jack,Caranx bartholomaei,98,3
+Almaco Jack,Seriola rivoliana,99,3
+Whitetongue Jack,Uraspis helvola,100,3
+Rainbow Runner,Elagatis bipinnulata,101,3
+Permit,Trachinotus falcatus,102,3
+Palometa,Trachinotus goodei,103,3
+Gafftopsail Pompano,Trachinotus rhodopus,104,3
+Dogtooth tuna,Gymnosarda unicolor,105,3
+Saucereye Porgy,Calamus calamus,106,3
+Jolthead Porgy,Calamus bajonado,107,3
+Pluma Porgy,Calamus pennatula,108,3
+Sheepshead,Archosargus probatocephalus,109,3
+Yellowfin Mojarra,Gerres cinereus,110,3
+Brassy Chub,Kyphosus vaigiensis,111,3
+Topsail Chub,Kyphosus cinerascens,112,3
+Pacific Chub,Scomber japonicus,113,3
+Atlantic Spadefish,Chaetodipterus faber,114,3
+Atlantic Tarpon,Megalops atlanticus,115,3
+Great Barracuda,Sphyraena barracuda,116,3
+Bonefish,Albula vulpes,117,3
+Cero,Scomberomorus regalis,118,3
+Flat Needlefish,Ablennes hians,119,3
+Redfin Needlefish,Strongylura notata,120,3
+Ballyhoo,Hemiramphus brasiliensis,121,3
+Red Hind,Epinephelus guttatus,122,4
+Brown-Marbled Grouper,Epinephelus fuscoguttatus,123,4
+Honeycomb grouper,Epinephelus merra,124,4
+Camouflage Grouper,Epinephelus polyphekadion,125,4
+Blacktip Grouper,Epinephelus fasciatus,126,4
+Specklefin Grouper,Epinephelus ongus,127,4
+Starry Grouper,Epinephelus labriformis,128,4
+Black Grouper,Mycteroperca bonaci,129,4
+Tiger Grouper,Mycteroperca tigris,130,4
+Yellowmouth Grouper,Mycteroperca interstitialis,131,4
+Yellowfin Grouper,Mycteroperca venenosa,132,4
+Leopard Grouper,Mycteroperca rosacea,133,4
+Graysby,Cephalopholis cruentata,134,4
+Coney,Cephalopholis fulva,135,4
+Peacock Grouper,Cephalopholis argus,136,4
+Bluespotted Grouper,Cephalopholis cyanostigma,137,4
+Harlequin Grouper,Cephalopholis polleni,138,4
+Flagtail Grouper,Cephalopholis urodeta,139,4
+Leopard Hind,Cephalopholis leopardus,140,4
+Strawberry Grouper,Cephalopholis spiloparaea,141,4
+Tomato Grouper,Cephalopholis sonnerati,142,4
+Coral Grouper,Cephalopholis miniata,143,4
+Six-Banded Grouper,Cephalopholis sexmaculata,144,4
+Panama Graysby,Cephalopholis panamensis,145,4
+Masked grouper,Gracila albomarginata,146,4
+Atlantic Creolefish,Paranthias furcifer,147,4
+Pacific creolefish,Paranthias colonus,148,4
+Baramundi,Cromileptes altivelis,149,4
+Slender Grouper,Anyperodon leucogrammicus,150,4
+Highfin Coral Grouper,Plectropomus oligacanthus,151,4
+Harlequin Bass,Serranus tigrinus,152,4
+Tobaccofish,Serranus tabacarius,153,4
+Chalk Bass,Serranus tortugarum,154,4
+Lantern Bass,Serranus baldwini,155,4
+Barred Serrano,Serranus psittacinus,156,4
+Sand Perch,Diplectrum formosum,157,4
+Dwarf Sand Perch,Diplectrum bivittatum,158,4
+Candy Basslet,Liopropoma carmabi,159,4
+Peppermint Basslet,Liopropoma rubre,160,4
+Squarespot Anthias,Pseudanthias pleurotaenia,161,4
+Scalefin Anthias,Pseudanthias squamipinnis,162,4
+Purple Anthias,Pseudanthias tuka,163,4
+Purple Queen Anthias,Pseudanthias pascalus,164,4
+Threadfin Anthias,Pseudanthias huchtii,165,4
+Hawaiian Longfin Anthias,Pseudanthias hawaiiensis,166,4
+Hawk Anthias,Serranocirrhitus latus,167,4
+Greater Soapfish,Rypticus saponaceus,168,4
+Mottled Soapfish,Rypticus bicolor,169,4
+Freckled Soapfish,Rypticus bistrispinus,170,4
+Spotted Soapfish,Rypticus subbifrenatus,171,4
+Arrowhead Soapfish,Belonoperca chabanaudi,172,4
+Bearded Soapfish,Pogonoperca punctata,173,4
+Fairy Basslet,Gramma loreto,174,4
+Blackcap Basslet,Gramma melacara,175,4
+French Grunt,Haemulon flavolineatum,176,5
+Bluestriped Grunt,Haemulon sciurus,177,5
+Smallmouth Grunt,Haemulon chrysargyreum,178,5
+White Grunt,Haemulon plumierii,179,5
+Cottonwick,Haemulon melanurum,180,5
+Caesar Grunt,Haemulon carbonarium,181,5
+Spanish Grunt,Haemulon macrostomum,182,5
+Tomtate,Haemulon aurolineatum,183,5
+Sailors Choice,Haemulon parra,184,5
+White Margate,Haemulon album,185,5
+Graybar grunt,Haemulon sexfasciatum,186,5
+Porkfish,Anisotremus virginicus,187,5
+Panamic Porkfish,Anisotremus taeniatus,188,5
+Black Margate,Anisotremus surinamensis,189,5
+Smalltoothed Jobfish,Aphareus furca,190,5
+Wavyline Grunt,Microlepidotus inornatus,191,5
+Yellowtail Snapper,Ocyurus chrysurus,192,5
+Schoolmaster Snapper,Lutjanus apodus,193,5
+Mahogany Snapper,Lutjanus mahogoni,194,5
+Cubera Snapper,Lutjanus cyanopterus,195,5
+Gray Snapper,Lutjanus griseus,196,5
+Dog Snapper,Lutjanus jocu,197,5
+Mutton Snapper,Lutjanus analis,198,5
+Lane Snapper,Lutjanus synagris,199,5
+Blacktail Snapper,Lutjanus fulvus,200,5
+Black-Banded Snapper,Lutjanus semicinctus,201,5
+Checkered Snapper,Lutjanus decussatus,202,5
+Bluestripe Snapper,Lutjanus kasmira,203,5
+Blue and Gold Snapper,Lutjanus viridis,204,5
+Blackfin Snapper,Lutjanus buccanella,205,5
+Twospot Snapper,Lutjanus biguttatus,206,5
+Amarillo Snapper,Lutjanus argentiventris,207,5
+Midnight Snapper,Macolor macularis,208,5
+Bridled Monocle Bream,Scolopsis bilineata,209,5
+Pearly Monocle Bream,Scolopsis margaritifera,210,5
+Whitestreak Monocle Bream,Scolopsis ciliata,211,5
+Pale Monocle Bream,Scolopsis affinis,212,5
+Humpnose Bigeye Bream,Monotaxis grandoculis,213,5
+Striped Large-Eye Bream,Gnathodentex aureolineatus,214,5
+Scissortail Fusilier,Caesio caerulaurea,215,5
+Blue and Yellow Fusilier,Caesio teres,216,5
+Bluestreak Fusilier,Pterocaesio tile,217,5
+Ruddy Fusilier,Pterocaesio pisang,218,5
+Blue Parrotfish,Scarus coeruleus,219,6
+Midnight Parrotfish,Scarus coelestinus,220,6
+Rainbow Parrotfish,Scarus guacamaia,221,6
+Princess Parrotfish,Scarus taeniopterus,222,6
+Striped Parrotfish,Scarus iseri,223,6
+Palenose Parrotfish,Scarus psittacus,224,6
+Regal Parrotfish,Scarus dubius,225,6
+Yellowbar Parrotfish,Scarus schlegeli,226,6
+Redlip Parrotfish,Scarus rubroviolaceus,227,6
+Blue-Barred Parrotfish,Scarus ghobban,228,6
+Bumphead Parrotfish,Scarus perrico,229,6
+Azure Parrotfish,Scarus compressus,230,6
+Swarthy Parrotfish,Scarus niger,231,6
+Yellowfin Parrotfish,Scarus flavipectoralis,232,6
+Stoplight Parrotfish,Sparisoma viride,233,6
+Redband Parrotfish,Sparisoma aurofrenatum,234,6
+Yellowtail Parrotfish,Sparisoma rubripinne,235,6
+Redtail Parrotfish,Sparisoma chrysopterum,236,6
+Greenblotch Parrotfish,Sparisoma atomarium,237,6
+Spotted Parrotfish,Cetoscarus ocellatus,238,6
+Bullethead Parrotfish,Chlorurus spilurus,239,6
+Bleekers Parrotfish,Chlorurus bleekeri,240,6
+Steephead Parrotfish,Chlorurus microrhinos,241,6
+Green Humphead Parrotfish,Bolbometopon muricatum,242,6
+Stareye Parrotfish,Calotomus carolinus,243,6
+Humphead Wrasse,Cheilinus undulatus,244,6
+Tripletail Wrasse,Cheilinus trilobatus,245,6
+Redbreasted Wrasse,Cheilinus fasciatus,246,6
+Pacific Bird Wrasse,Gomphosus varius,247,6
+Creole Wrasse,Clepticus parrae,248,6
+Yellowhead Wrasse,Halichoeres garnoti,249,6
+Puddingwife,Halichoeres radiatus,250,6
+Goldstripe Wrasse,Halichoeres hartzfeldii,251,6
+Checkerboard Wrasse,Halichoeres hortulanus,252,6
+Richmonds Wrasse,Halichoeres richmondi,253,6
+Red-Lined Wrasse,Halichoeres biocellatus,254,6
+Ornate Wrasse,Halichoeres ornatissimus,255,6
+Nebulous Wrasse,Halichoeres nebulosus,256,6
+Twotone Wrasse,Halichoeres prosopeion,257,6
+Zigzag Wrasse,Halichoeres scapularis,258,6
+Canary Wrasse,Halichoeres chrysus,259,6
+Rainbow Wrasse,Halichoeres pictus,260,6
+Clown wrasse,Halichoeres maculipinna,261,6
+Slippery Dick,Halichoeres bivittatus,262,6
+Chameleon Wrasse,Halichoeres dispilus,263,6
+Yellowtail Coris,Coris gaimard,264,6
+Batu coris,Coris batuensis,265,6
+Yellowstripe Coris,Coris flavovittata,266,6
+Elegant coris,Coris venusta,267,6
+Slingjaw Wrasse,Epibulus insidiator,268,6
+Latent Slingjaw Wrasse,Epibulus brevis,269,6
+Barred Thicklip,Hemigymnus fasciatus,270,6
+Blackeye Thicklip,Hemigymnus melapterus,271,6
+Blacksaddle Tuskfish,Choerodon zosterophorus,272,6
+Anchor Tuskfish,Choerodon anchorago,273,6
+Leopard Wrasse,Macropharyngodon meleagris,274,6
+Shortnose Wrasse,Macropharyngodon geoffroy,275,6
+Whitespotted Wrasse,Anampses melanurus,276,6
+Yellowtail Wrasse,Anampses meleagrides,277,6
+Saddle Wrasse,Thalassoma duperrey,278,6
+Moon Wrasse,Thalassoma lunare,279,6
+Ladder Wrasse,Thalassoma trilobatum,280,6
+Sunset Wrasse,Thalassoma lutescens,281,6
+Surge Wrasse,Thalassoma purpureum,282,6
+Cortez Rainbow Wrasse,Thalassoma lucasanum,283,6
+Belted Wrasse,Stethojulis balteata,284,6
+Ringtail Wrasse,Oxycheilinus unifasciatus,285,6
+Twospot Wrasse,Oxycheilinus bimaculatus,286,6
+Cheeklined Wrasse,Oxycheilinus digramma,287,6
+Celebes Wrasse,Oxycheilinus celebicus,288,6
+Dotted Wrasse,Cirrhilabrus punctatus,289,6
+Lubbocks Wrasse,Cirrhilabrus lubbocki,290,6
+Bluesided Fairy Wrasse,Cirrhilabrus cyanopleura,291,6
+Bluestreak Cleaner Wrasse,Labroides dimidiatus,292,6
+Bicolor Cleaner Wrasse,Labroides bicolor,293,6
+Hawaiian Cleaner Wrasse,Labroides phthirophagus,294,6
+Smalltail Wrasse,Pseudojuloides cerasinus,295,6
+Disappearing Wrasse,Pseudocheilinus evanidus,296,6
+Fourstripe Wrasse,Pseudocheilinus tetrataenia,297,6
+Sixstripe Wrasse,Pseudocheilinus hexataenia,298,6
+Eightstripe Wrasse,Pseudocheilinus octotaenia,299,6
+Cockerel Wrasse,Pteragogus enneacanthus,300,6
+Cryptic Wrasse,Pteragogus cryptus,301,6
+Chiseltooth Wrasse,Pseudodax moluccanus,302,6
+Redshoulder Wrasse,Stethojulis bandanensis,303,6
+Hogfish,Lachnolaimus maximus,304,6
+Spanish Hogfish,Bodianus rufus,305,6
+Hawaiian Hogfish,Bodianus albotaeniatus,306,6
+Dianas Hogfish,Bodianus diana,307,6
+Blackbelt Hogfish,Bodianus mesothorax,308,6
+Lyretail Hogfish,Bodianus anthioides,309,6
+Mexican Hogfish,Bodianus diplotaenia,310,6
+Cigar Wrasse,Cheilio inermis,311,6
+Rockmover Wrasse,Novaculichthys taeniourus,312,6
+Green Razorfish,Xyrichtys splendens,313,6
+Rosy Razorfish,Xyrichtys martinicensis,314,6
+Pearly Razorfish,Xyrichtys novacula,315,6
+Fivefinger Razorfish,Iniistius pentadactylus,316,6
+Peacock Razorfish,Iniistius pavo,317,6
+Finspot razorfish,Iniistius melanopus,318,6
+Whitepatch Razorfish,Iniistius aneitensis,319,6
+Squirrelfish,Holocentrus adscensionis,320,7
+Longspine Squirrelfish,Holocentrus rufus,321,7
+Reef Squirrelfish,Sargocentron coruscum,322,7
+Longjaw Squirrelfish,Neoniphon marianus,323,7
+Dusky squirrelfish,Sargocentron vexillarium,324,7
+Crown Squirrelfish,Sargocentron diadema,325,7
+Three-Spot Squirrelfish,Sargocentron cornutum,326,7
+Smallmouth Squirrelfish,Sargocentron microstoma,327,7
+Pink Squirrelfish,Sargocentron tiereoides,328,7
+Blackfin Squirrelfish,Neoniphon opercularis,329,7
+Spotfin Squirrelfish,Neoniphon sammara,330,7
+Tailspot Squirrelfish,Sargocentron caudimaculatum,331,7
+Sabre Squirrelfish,Sargocentron spiniferum,332,7
+Blue Lined Squirrelfish,Sargocentron tiere,333,7
+Blackbar Soldierfish,Myripristis jacobus,334,7
+Brick Soldierfish,Myripristis amaena,335,7
+Whitetip soldierfish,Myripristis vittata,336,7
+Shadowfin Soldierfish,Myripristis adusta,337,7
+Bigscale Soldierfish,Myripristis berndti,338,7
+Epaulette Soldierfish,Myripristis kuntee,339,7
+Violet Soldierfish,Myripristis violacea,340,7
+Panamic Soldierfish,Myripristis leiognathus,341,7
+Glasseye Snapper,Heteropriacanthus cruentatus,342,7
+Crescent-Tail Bigeye,Priacanthus hamrur,343,7
+Banggai Cardinalfish,Pterapogon kauderni,344,7
+Pale Cardinalfish,Apogon planifrons,345,7
+Mimic Cardinalfish,Apogon phenax,346,7
+Belted cardinalfish,Apogon townsendi,347,7
+Whitestar Cardinalfish,Apogon lachneri,348,7
+Flamefish,Apogon maculatus,349,7
+Ghost Cardinalfish,Nectamia fusca,350,7
+Peppermint Goby,Coryphopterus lipernes,351,8
+Pallid Goby,Coryphopterus eidolon,352,8
+Bridled Goby,Coryphopterus glaucofraenum,353,8
+Goldspot Goby,Gnatholepis cauerensis,354,8
+Colon Goby,Coryphopterus dicrus,355,8
+Sharknose Goby,Elacatinus evelynae,356,8
+Cleaning Goby,Elacatinus genie,357,8
+Yellownose Goby,Elacatinus randalli,358,8
+Barsnout Goby,Elacatinus illecebrosus,359,8
+Linesnout Goby,Elacatinus lori,360,8
+Spotlight Goby,Elacatinus louisae,361,8
+Yellowline Goby,Elacatinus horsti,362,8
+Redhead Goby,Elacatinus puncticulatus,363,8
+Rusty Goby,Priolepis hipoliti,364,8
+Tusked goby,Risor ruber,365,8
+Candycane Pygmygoby,Trimma cana,366,8
+Redearth Pygmygoby,Trimma milta,367,8
+Ringeye Pygmygoby,Trimma benjamini,368,8
+Neon Dwarfgoby,Eviota atriventris,369,8
+Whitestriped Dwarfgoby,Eviota guttata,370,8
+Striped Dwarfgoby,Eviota sebreei,371,8
+Red and Whitespotted Dwarfgoby,Eviota prasites,372,8
+Twospot Sandgoby,Fusigobius duospilus,373,8
+Neophyte Sandgoby,Fusigobius neophytus,374,8
+Isthmus Goby,Arcygobius baliurus,375,8
+Gorgeous Shrimpgoby,Amblyeleotris wheeleri,376,8
+Orange-Dashed Goby,Valenciennea puellaris,377,8
+Twostripe Goby,Valenciennea helsdingenii,378,8
+Beautiful Goby,Exyrias belissimus,379,8
+Orangespotted Sandgoby,Istigobius rigilius,380,8
+Decorated Sandgoby,Istigobius decoratus,381,8
+Ornate Sandgoby,Istigobius ornatus,382,8
+Stony Coral Ghostgoby,Pleurosicya micheli,383,8
+Wire Coral Goby,Bryaninops yongei,384,8
+Translucent Coral Goby,Bryaninops erythrops,385,8
+Large Whip Goby,Bryaninops amplus,386,8
+Wolfsnout Goby,Luposicya lupus,387,8
+Hairy Blenny,Labrisomus nuchipinnis,388,8
+Diamond Blenny,Malacoctenus boehlkei,389,8
+Goldline Blenny,Malacoctenus aurolineatus,390,8
+Throatspotted Blenny,Malacoctenus tetranemus,391,8
+Arrow Blenny,Lucayablennius zingaro,392,8
+Sailfin Blenny,Emblemaria pandionis,393,8
+Spinyhead Blenny,Acanthemblemaria spinosa,394,8
+Roughhead Blenny,Acanthemblemaria aspera,395,8
+Secretary Blenny,Acanthemblemaria maria,396,8
+Mexican Barnacle blenny,Acanthemblemaria macrospilus,397,8
+Flagfin Blenny,Emblemariopsis signifer,398,8
+Redlip Blenny,Ophioblennius atlanticus,399,8
+Panamic Fanged Blenny,Ophioblennius steindachneri,400,8
+Piano Fangblenny,Plagiotremus tapeinosoma,401,8
+Goslines Fangblenny,Plagiotremus goslinei,402,8
+Bicolour fangblenny,Plagiotremus laudandus,403,8
+Fiji Fangblenny,Plagiotremus flavus,404,8
+Bluestriped Fangblenny,Plagiotremus rhinorhynchos,405,8
+Sabertooth Blenny,Plagiotremus azaleus,406,8
+Striped Fangblenny,Meiacanthus grammistes,407,8
+Shorthead Fangblenny,Petroscirtes breviceps,408,8
+Slender Sabretooth Blenny,Aspidontus dussumieri,409,8
+Comical Coralblenny,Ecsenius opsifrontalis,410,8
+Fiji Clown Coralblenny,Ecsenius fijiensis,411,8
+Pictus Coralblenny,Ecsenius pictus,412,8
+Yaeyama Coralblenny,Ecsenius yaeyamaensis,413,8
+Leopard Blenny,Exallias brevis,414,8
+Jewelled blenny,Salarias fasciatus,415,8
+Starry Blenny,Salarias ramosus,416,8
+Segmented Blenny,Salarias segmentatus,417,8
+Gargantuan Blenny,Cirripectes obscurus,418,8
+Barnaclebill Blenny,Hypsoblennius brevipinnis,419,8
+Roughhead Triplefin,Enneanectes boehlkei,420,8
+Striped Triplefin,Helcogramma striata,421,8
+Largemouth Triplefin,Ucla xenogrammus,422,8
+Lizard Triplefin,Crocodilichthys gracilis,423,8
+Fire Dartfish,Nemateleotris magnifica,424,9
+Decorated Dartfish,Nemateleotris decora,425,9
+Twotone Dartfish,Ptereleotris evides,426,9
+Yellowhead Jawfish,Opistognathus aurifrons,427,9
+Banded Jawfish,Opistognathus macrognathus,428,9
+Sand Diver,Synodus intermedius,429,9
+Bluestriped Lizardfish,Synodus saurus,430,9
+Reef Lizardfish,Synodus variegatus,431,9
+Redmarbled Lizardfish,Synodus rubromarmoratus,432,9
+Clearfin Lizardfish,Synodus dermatogenys,433,9
+Twospot Lizardfish,Synodus binotatus,434,9
+Slender Lizardfish,Saurida gracilis,435,9
+Orangemouth Lizardfish,Saurida flamma,436,9
+Hawaiian Lizardfish,Synodus ulae,437,9
+Threadfin Sand Diver,Trichonotus elegans,438,9
+Sand Tilefish,Malacanthus plumieri,439,9
+Redspotted Hawkfish,Amblycirrhitus pinos,440,10
+Marbled Hawkfish,Cirrhitus pinnulatus,441,10
+Giant Hawkfish,Cirrhitus rivulatus,442,10
+Spotted Hawkfish,Cirrhitichthys aprinus,443,10
+Pixy Hawkfish,Cirrhitichthys oxycephalus,444,10
+Dwarf hawkfish,Cirrhitichthys falco,445,10
+Arc-Eye Hawkfish,Paracirrhites arcatus,446,10
+Freckled Hawkfish,Paracirrhites forsteri,447,10
+Longnose Hawkfish,Oxycirrhites typus,448,10
+Redbarred Hawkfish,Cirrhitops fasciatus,449,10
+Thorny Flathead,Rogadius pristiger,450,10
+Dragon Sea Moth,Eurypegasus draconis,451,10
+Peacock Flounder,Bothus lunatus,452,10
+Eyed Flounder,Bothus ocellatus,453,10
+Leopard Flounder,Bothus pantherinus,454,10
+Flowery flounder,Bothus mancus,455,10
+Pacific Leopard Flounder,Bothus leopardinus,456,10
+Channel Flounder,Syacium micrurum,457,10
+Banded Sole,Soleichthys heterorhinos,458,10
+Doubleline Clingfish,Lepadichthys lineatus,459,10
+Splendid Toadfish,Sanopus splendidus,460,10
+Whitespotted Toadfish,Sanopus astrifer,461,10
+Shortnose Batfish,Ogcocephalus nasutus,462,10
+Striated Frogfish,Antennarius striatus,463,10
+Spotfin Frogfish,Antennatus nummifer,464,10
+Helmut Gurnard,Dactyloptena orientalis,465,10
+Spotwing Flying Gurnard,Dactyloptena macracantha,466,10
+Spotfin Lionfish,Pterois antennata,467,10
+Clearfin Lionfish,Pterois radiata,468,10
+False Mombasa Lionfish,Pterois paucispinula,469,10
+Hawaiian Red Lionfish,Pterois sphex,470,10
+Shortfin Lionfish,Dendrochirus brachypterus,471,10
+Zebra Lionfish,Dendrochirus zebra,472,10
+Twinspot Lionfish,Dendrochirus biocellatus,473,10
+Spotted Scorpionfish,Scorpaena plumieri,474,10
+Reef Scorpionfish,Scorpaenodes caribbaeus,475,10
+Mushroom Scorpionfish,Scorpaena inermis,476,10
+Pacific Spotted Scorpionfish,Scorpaena mystes,477,10
+Flasher Scorpionfish,Scorpaenopsis macrochir,478,10
+Raggy Scorpionfish,Scorpaenopsis venosa,479,10
+Titan Scorpionfish,Scorpaenopsis cacopsis,480,10
+Ambon Scorpionfish,Pteroidichthys amboinensis,481,10
+Leaf Scorpionfish,Taenianotus triacanthus,482,10
+Shortfin Scorpionfish,Scorpaenodes parvipinnis,483,10
+Barchin Scorpionfish,Sebastapistes strongia,484,10
+Speckled Scorpionfish,Sebastapistes coniorta,485,10
+Estuarine Stonefish,Synanceia horrida,486,10
+Longspined Waspfish,Paracentropogon longispinis,487,10
+Whiteface Waspfish,Richardsonichthys leucogaster,488,10
+Queen Triggerfish,Balistes vetula,489,11
+Finescale Triggerfish,Balistes polylepis,490,11
+Ocean Triggerfish,Canthidermis sufflamen,491,11
+Sargassum Triggerfish,Xanthichthys ringens,492,11
+Black Durgon,Melichthys niger,493,11
+Orangeside Triggerfish,Sufflamen verres,494,11
+Scrawled Filefish,Aluterus scriptus,495,11
+Rhino Filefish,Pseudalutarius nasicornis,496,11
+Whitespotted Filefish,Cantherhines macrocerus,497,11
+Yelloweye Filefish,Cantherhines dumerilii,498,11
+Spectacled Filefish,Cantherhines fronticinctus,499,11
+Wirenet Filefish,Cantherhines pardalis,500,11
+Orangespotted Filefish,Cantherhines pullus,501,11
+Strapweed Filefish,Pseudomonacanthus macrurus,502,11
+Blackheaded Filefish,Pervagor melanocephalus,503,11
+Orangetail Filefish,Pervagor aspricaudus,504,11
+Fantail Filefish,Pervagor spilosoma,505,11
+Slender Filefish,Monacanthus tuckeri,506,11
+Mimic Filefish,Paraluteres prionurus,507,11
+Longnose Filefish,Oxymonacanthus longirostris,508,11
+Scrawled Cowfish,Acanthostracion quadricornis,509,11
+Honeycomb Cowfish,Acanthostracion polygonius,510,11
+Smooth Trunkfish,Lactophrys triqueter,511,11
+Spotted Trunkfish,Lactophrys bicaudalis,512,11
+Buffalo Trunkfish,Lactophrys trigonus,513,11
+Balloonfish,Diodon holocanthus,514,11
+Spotfin Burrfish,Chilomycterus reticulatus,515,11
+Bridled Burrfish,Chilomycterus antennatus,516,11
+Web Burrfish,Chilomycterus antillarum,517,11
+Blackspotted Puffer,Arothron nigropunctatus,518,11
+Whitespotted Puffer,Arothron hispidus,519,11
+Reticulated pufferfish,Arothron reticularis,520,11
+Blue-Spotted Puffer,Arothron caeruleopunctatus,521,11
+Map Puffer,Arothron mappa,522,11
+Star Puffer,Arothron stellatus,523,11
+Striped Puffer,Arothron manilensis,524,11
+Immaculate Puffer,Arothron immaculatus,525,11
+Sharpnose Puffer,Canthigaster rostrata,526,11
+Papuan Toby,Canthigaster papua,527,11
+Fingerprint Toby,Canthigaster compressa,528,11
+Black-Saddled Toby,Canthigaster valentini,529,11
+Pacific Crown Toby,Canthigaster axiologus,530,11
+Hawaiian Crown Toby,Canthigaster coronata,531,11
+Whitebelly Toby,Canthigaster bennetti,532,11
+Honeycomb Toby,Canthigaster janthinoptera,533,11
+Spotted Sharpnosed Puffer,Canthigaster punctatissima,534,11
+Hawaiian Whitespotted Toby,Canthigaster jactator,535,11
+Ambon Toby,Canthigaster amboinensis,536,11
+Lantern Toby,Canthigaster epilampra,537,11
+Bandtail Puffer,Sphoeroides spengleri,538,11
+Checkered Puffer,Sphoeroides testudineus,539,11
+Spotted Drum,Equetus punctatus,540,11
+Jackknife Fish,Equetus lanceolatus,541,11
+High Hat,Pareques acuminatus,542,11
+Cubbyu,Pareques umbrosus,543,11
+Spotted Goatfish,Pseudupeneus maculatus,544,11
+Yellow Goatfish,Mulloidichthys martinicus,545,11
+Yellowfin Goatfish,Mulloidichthys vanicolensis,546,11
+Yellowstripe Goatfish,Mulloidichthys flavolineatus,547,11
+Mexican Goatfish,Mulloidichthys dentatus,548,11
+Manybar Goatfish,Parupeneus multifasciatus,549,11
+Sidespot Goatfish,Parupeneus pleurostigma,550,11
+Longbarbel Goatfish,Parupeneus macronemus,551,11
+Island Goatfish,Parupeneus insularis,552,11
+Whitesaddle Goatfish,Parupeneus porphyreus,553,11
+Dash-Dot Goatfish,Parupeneus barberinus,554,11
+Freckled Goatfish,Upeneus tragula,555,11
+Indian goatfish,Parupeneus indicus,556,11
+Razorfish,Aeoliscus strigatus,557,11
+Rigid Shrimpfish,Centriscus scutatus,558,11
+Pacific Trumpetfish,Aulostomus chinensis,559,11
+Bluespotted Cornetfish,Fistularia commersonii,560,11
+Glassy Sweeper,Pempheris schomburgkii,561,11
+Sharksucker,Echeneis naucrates,562,11
+Whitefin Sharksucker,Echeneis neucratoides,563,11
+Thorny seahorse,Hippocampus histrix,564,12
+Common Seahorse,Hippocampus kuda,565,12
+Smooth Seahorse,Hippocampus trimaculatus,566,12
+Pacific Seahorse,Hippocampus ingens,567,12
+Pygmy Seahorse,Hippocampus bargibanti,568,12
+Pontohs Pygmy Seahorse,Hippocampus pontohi,569,12
+Ornate Ghost Pipefish,Solenostomus paradoxus,570,12
+Robust Ghost Pipefish,Solenostomus cyanopterus,571,12
+Shortfin Pipefish,Cosmocampus elucens,572,12
+Harlequin Pipefish,Micrognathus crinitus,573,12
+Naia Pipefish,Dunckerocampus naia,574,12
+Network Pipefish,Corythoichthys flavofasciatus,575,12
+Brown-banded Pipefish,Corythoichthys amplexus,576,12
+Thread Pipefish,Kyonemichthys rumengani,577,12
+Short-Tailed Pipefish,Trachyrhamphus bicoarctatus,578,12
+Shortnose Pipefish,Micrognathus andersonii,579,12
+Mushroom Coral Pipefish,Siokunichthys nigrolineatus,580,12
+Winged Pipefish,Halicampus macrorhynchus,581,12
+Shortpouch Pygmy Pipehorse,Acentronura tentaculata,582,12
+Double-Ended Pipefish,Syngnathoides biaculeatus,583,12
+Ribbon Moray Eel,Rhinomuraena quaesita,584,13
+Green Moray Eel,Gymnothorax funebris,585,13
+Panamic Green Moray Eel,Gymnothorax castaneus,586,13
+Goldentail Moray Eel,Gymnothorax miliaris,587,13
+Yellowmargin Moray Eel,Gymnothorax flavimarginatus,588,13
+Giant Moray Eel,Gymnothorax javanicus,589,13
+Masked Moray Eel,Gymnothorax breedeni,590,13
+Laced moray Eel,Gymnothorax favagineus,591,13
+Whitemouth Moray Eel,Gymnothorax meleagris,592,13
+White-Eyed Moray Eel,Gymnothorax thyrsoideus,593,13
+Fimbriated Moray Eel,Gymnothorax fimbriatus,594,13
+Undulated Moray Eel,Gymnothorax undulatus,595,13
+Dwarf Moray Eel,Gymnothorax melatremus,596,13
+Stout Moray Eel,Gymnothorax eurostus,597,13
+Purplemouth Moray Eel,Gymnothorax vicinus,598,13
+Whitelip Moray Eel,Gymnothorax chilospilus,599,13
+Barredfin Moray Eel,Gymnothorax zonipectis,600,13
+White-Margined Moray Eel,Gymnothorax albimarginatus,601,13
+Chain Moray Eel,Echidna catenata,602,13
+Snowflake Moray Eel,Echidna nebulosa,603,13
+Barred Moray Eel,Echidna polyzona,604,13
+Chestnut Moray Eel,Enchelycore carychroa,605,13
+Viper Moray Eel,Enchelycore nigricans,606,13
+Tiger Snake Moray Eel,Scuticaria tigrina,607,13
+Zebra Moray Eel,Gymnomuraena zebra,608,13
+Blotched Moray Eel,Uropterygius fasciolatus,609,13
+Sharptail Eel,Myrichthys breviceps,610,13
+Goldspotted Eel,Myrichthys ocellatus,611,13
+Black-Finned Snake Eel,Ophichthus altipennis,612,13
+Hawaiian Conger Eel,Conger marginatus,613,13
+Scheeles Conger Eel,Ariosoma scheelei,614,13
+Brown Garden Eel,Heteroconger longissimus,615,13
+Barnes Garden Eel,Gorgasia barnesi,616,13
+Spotted Garden Eel,Heteroconger hassi,617,13
+Taylors Garden Eel,Heteroconger taylori,618,13
+Banded Garden Eel,Heteroconger polyzona,619,13
+Caribbean Whiptail Stingray,Himantura schmardae,620,14
+Blue-Spotted Stingray,Neotrygon kuhlii,621,14
+Bluespotted Ribbontail Ray,Taeniura lymma,622,14
+Cowtail Stingray,Pastinachus sephen,623,14
+Yellow Stingray,Urobatis jamaicensis,624,14
+Reef Stingray,Urobatis concentricus,625,14
+Lesser Electric Ray,Narcine brasiliensis,626,14
+Gray Reef Shark,Carcharhinus amblyrhynchos,627,14
+Tawny Nurse Shark,Nebrius ferrugineus,628,14
+Whitetip Reef Shark,Triaenodon obesus,629,14
+Spotted Spiny Lobster,Panulirus guttatus,630,15
+Red Banded Lobster,Justitia longimanus,631,15
+Banded Spiny Lobster,Panulirus marginatus,632,15
+Pronghorn Spiny Lobster,Panulirus penicillatus,633,15
+Stripe-Leg Spiny Lobster,Panulirus femoristriga,634,15
+Blue Spiny Lobster,Panulirus inflatus,635,15
+Red Reef Lobster,Enoplometopus occidentalis,636,15
+Sculptured Slipper Lobster,Parribacus antarcticus,637,15
+Small Spanish Lobster,Arctides guineensis,638,15
+Spanish Lobster,Scyllarides aequinoctialis,639,15
+Blunt Slipper Lobster,Scyllarides squammosus,640,15
+Striated Cone,Conus striatus,641,16
+Marbled Cone,Conus marmoreus,642,16
+Berrys Bobtail Squid,Euprymna berryi,643,17
+Tropical Bottletail Squid,Sepiadarium kochi,644,17
+Flamboyant Cuttlefish,Metasepia pfefferi,645,17
+Common Octopus,Octopus vulgaris,646,17
+Greater Blue-Ringed Octopus,Hapalochlaena lunulata,647,17
+Day Octopus,Octopus cyanea,648,17
+Coconut Octopus,Amphioctopus marginatus,649,17
+Poison Ocellate Octopus,Amphioctopus siamensis,650,17
+Mosaic Octopus,Abdopus abaculus,651,17
+Giant Giant Clam,Tridacna gigas,652,18
+Smooth Giant Clam,Tridacna derasa,653,18
+Crocus Giant Clam,Tridacna crocea,654,18
+Flutted Giant Clam,Tridacna squamosa,655,18
+Maxima Giant Clam,Tridacna maxima,656,18
+Hippopus Clam,Hippopus hippopus,657,18
+Three-Rowed Sea Cucumber,Isostichopus badionotus,658,19
+Furry Sea Cucumber,Astichopus multifidus,659,19
+Conical Sea Cucumber,Eostichopus arnesoni,660,19
+Donkey Dung Sea Cucumber,Holothuria mexicana,661,19
+Tiger Tail Sea Cucumber,Holothuria thomasi,662,19
+Florida Sea Cucumber,Holothuria floridana,663,19
+Pineapple Sea Cucumber,Thelenota ananas,664,19
+Leopard Sea Cucumber,Bohadschia argus,665,19
+Plump Sea Cucumber,Actinopyga obesa,666,19
+Paradoxical Sea Cucumber,Bohadschia paradoxa,667,19
+Whitespotted Sea Cucumber,Actinopyga varians,668,19
+White-rumped Sea Cucumber,Actinopyga lecanora,669,19
+Hairy Blackfish Sea Cucumber,Actinopyga miliaris,670,19
+Teated Sea Cucumber,Holothuria whitmaei,671,19
+White Teatfish,Holothuria fuscogilva,672,19
+Black Sea Cucumber,Holothuria atra,673,19
+Greenfish Sea Cucumber,Stichopus chloronotus,674,19
+Dragonfish Sea Cucumber,Stichopus horrens,675,19
+Graeffes Sea Cucumber,Pearsonothuria graeffei,676,19
+Giant Sea Cucumber,Thelenota anax,677,19
+Elephant Trunkfish,Holothuria fuscopunctata ,678,19
+Brown Curryfish Sea Cucumber,Stichopus vastus,679,19
+Volcano Sea Cucumber,Holothuria turriscelsa,680,19
+Difficult Sea Cucumber,Holothuria difficilis,681,19
+Light-Spotted Sea Cucumber,Holothuria hilla,682,19
+Branching Fire Coral,Millepora alcicornis,683,20
+Blade Fire Coral,Millepora Complanata,684,20
+Staghorn Coral,Acropora cervicornis,685,20
+Clubtip Finger Coral,Porites porites,686,20
+Branched Finger Coral,Porites furcata,687,20
+Thin Finger Coral,Porites divaricata,688,20
+Pillar Coral,Dendrogyra cylindrus,689,20
+Diffuse Ivory Bush Coral,Oculina diffusa,690,20
+Ten-Ray Star Coral,Madracis decactis,691,20
+Lobed Star Coral,Montastraea annularis,692,20
+Mountainous Star Coral,Montastraea faveolata,693,20
+Boulder Star Coral,Montastraea franksi,694,20
+Great Star Coral,Montastraea cavernosa,695,20
+Golfball Coral,Favia fragum,696,20
+Mustard Hill Coral,Porites astreoides,697,20
+Massive Starlet Coral,Siderastrea siderea,698,20
+Lesser Starlet Coral,Siderastrea radians,699,20
+Symmetrical Brain Coral,Diploria strigosa,700,20
+Knobby Brain Coral,Diploria clivosa,701,20
+Boulder Brain Coral,Colpophyllia natans,702,20
+Maze Coral,Meandrina meandrites,703,20
+Rose Coral,Manicina areolata,704,20
+Whitestar Sheet Coral,Agaricia lamarcki,705,20
+Fragile Saucer Coral,Agaricia fragilis,706,20
+Dimpled Sheet Coral,Agaricia grahamae,707,20
+Low Relief Lettuce Coral,Agaricia humilis,708,20
+Thin Leaf Lettuce Coral,Agaricia tenuifolia,709,20
+Ridged Cactus Coral,Mycetophyllia lamarckiana,710,20
+Knobby Cactus Coral,Mycetophyllia aliciae,711,20
+Rough Cactus Coral,Mycetophyllia ferox,712,20
+Rough Star Coral,Isophyllastrea rigida,713,20
+Atlantic Mushroom Coral,Scolymia lacera,714,20
+Spiny Flower Coral,Mussa angulosa,715,20
+Antler Coral,Pocillopora eydouxi,716,20
+Cauliflower Coral,Pocillopora meandrina,717,20
+Needle Coral,Seriatopora hystrix,718,20
+Acropora subulata,Acropora subulata,719,20
+Rice Coral,Montipora capitata,720,20
+Leptoseris explanata,Leptoseris explanata,721,20
+Acanthastrea lordhowensis,Acanthastrea lordhowensis,722,20
+Symphyllia radians,Symphyllia radians,723,20
+Button Coral,Cynarina lacrymalis,724,20
+Common Mushroom Coral,Fungia fungites,725,20
+Fungia concinna,Fungia concinna,726,20
+Common Razor Coral,Fungia scutaria,727,20
+Granular Razor Coral,Fungia granulosa,728,20
+Ctenactis echinata,Ctenactis echinata,729,20
+Ctenactis albitentaculata,Ctenactis albitentaculata,730,20
+Herpolitha limax,Herpolitha limax,731,20
+Polyphyllia talpina,Polyphyllia talpina,732,20
+Lithophyllon undulatum,Lithophyllon undulatum,733,20
+Pectinia paeonia,Pectinia paeonia,734,20
+Common Lettuce Coral,Pectinia lactuca,735,20
+Bubble Coral,Plerogyra sinuosa,736,20
+Pearl Bubble Coral,Physogyra lichtensteini,737,20
+Anchor Coral,Euphyllia ancora,738,20
+Blue-Lipped Sea krait,Laticauda laticaudata,739,21
+Short-Finned Pilot Whale,Globicephala macrorhynchus,740,21
+Blue Angelfish,Holacanthus bermudensis,741,1
+King Angelfish,Holacanthus passer,742,1
+Clarion Angelfish,Holacanthus clarionensis,743,1
+Rock Beauty,Holacanthus tricolor,744,1
+Regal Angelfish,Pygoplites diacanthus,745,1
+Black-Spot Angelfish,Genicanthus melanospilos,746,1
+Blackstriped Angelfish,Genicanthus lamarck,747,1
+Gray Angelfish,Pomacanthus arcuatus,748,1
+Semicircle Angelfish,Pomacanthus semicirculatus,749,1
+Six-Banded Angelfish,Pomacanthus sexstriatus,750,1
+Cortez Angelfish,Pomacanthus zonipectus,751,1
+Emperor Angelfish,Pomacanthus imperator,752,1
+Yellow-Mask Angelfish,Pomacanthus xanthometopon,753,1
+Bluegirdled Angelfish,Pomacanthus navarchus,754,1
+Threespot Angelfish,Apolemichthys trimaculatus,755,1
+Multibarred Angelfish,Paracentropyge multifasciata,756,1
+Vermiculated Angelfish,Chaetodontoplus mesoleucus,757,1
+Cherubfish,Centropyge argi,758,1
+Keyhole Angelfish,Centropyge tibicen,759,1
+Bicolor angelfish,Centropyge bicolor,760,1
+Lemonpeel Angelfish,Centropyge flavissima,761,1
+Pearl-Scaled Angelfish,Centropyge vrolikii,762,1
+Two-Spined Angelfish,Centropyge bispinosa,763,1
+Flame Angelfish,Centropyge loricula,764,1
+Potters Angelfish,Centropyge potteri,765,1
+Pacific Sailfin Tang,Zebrasoma veliferum,766,1
+Yellow Tang,Zebrasoma flavescens,767,1
+Brushtail Tang,Zebrasoma scopas,768,1
+Ocean Surgeonfish,Acanthurus bahianus,769,1
+Doctorfish,Acanthurus chirurgus,770,1
+Achilles Tang,Acanthurus achilles,771,1
+Orangeband Surgeonfish,Acanthurus olivaceus,772,1
+Mimic Surgeonfish,Acanthurus pyroferus,773,1
+Whitecheek Surgeonfish,Acanthurus nigricans,774,1
+Brown Surgeonfish,Acanthurus nigrofuscus,775,1
+Striped Surgeonfish,Acanthurus lineatus,776,1
+Blackstreak Surgeonfish,Acanthurus nigricauda,777,1
+Pale-Lipped Surgeonfish,Acanthurus leucocheilus,778,1
+Elongate Surgeonfish,Acanthurus mata,779,1
+Yellowfin Surgeonfish,Acanthurus xanthopterus,780,1
+Eyestripe Surgeonfish,Acanthurus dussumieri,781,1
+Dark Surgeonfish,Acanthurus nubilus,782,1
+Blue-Lined Surgeonfish,Acanthurus nigroris,783,1
+Whitebar Surgeonfish,Acanthurus leucopareius,784,1
+Convict Tang,Acanthurus triostegus,785,1
+Bignose Unicornfish,Naso vlamingii,786,1
+Paletail Unicornfish,Naso brevirostris,787,1
+Bluespine Unicornfish,Naso unicornis,788,1
+Sleek Unicornfish,Naso hexacanthus,789,1
+Orangespine Unicornfish,Naso lituratus,790,1
+Goldring Surgeonfish,Ctenochaetus strigosus,791,1
+Lined Bristletooth,Ctenochaetus striatus,792,1
+Bluelipped Bristletooth,Ctenochaetus cyanocheilus,793,1
+Hawaiian Bristletooth,Ctenochaetus hawaiiensis,794,1
+Palette Surgeonfish,Paracanthurus hepatus,795,1
+Yellowtail Surgeonfish,Prionurus punctatus,796,1
+Masked Rabbitfish,Siganus puellus,797,1
+Siganus virgatus,Siganus virgatus,798,1
+Goldspotted Rabbitfish,Siganus punctatus,799,1
+Whitespotted Rabbitfish,Siganus canaliculatus,800,1
+Coral Rabbitfish,Siganus corallinus,801,1
+Golden Rabbitfish,Siganus guttatus,802,1
+Foxface Rabbitfish,Siganus vulpinus,803,1
+Banded Butterflyfish,Chaetodon striatus,804,1
+Threespot Damselfish,Stegastes planifrons,805,2
+Goliath Grouper,Epinephelus itajara,806,4
+Nassau Grouper,Epinephelus striatus,807,4
+Queen Parrotfish,Scarus vetula,808,6
+Bluehead,Thalassoma bifasciatum,809,6
+Bluebanded Goby,Lythrypnus dalli,810,8
+Common Lionfish,Pterois volitans,811,10
+Porcupinefish,Diodon hystrix,812,11
+Guineafowl Puffer,Arothron meleagris,813,11
+Trumpetfish,Aulostomus maculatus,814,11
+Longsnout Seahorse,Hippocampus reidi,815,12
+Spotted Moray Eel,Gymnothorax moringa,816,13
+Spotted Eagle Ray,Aetobatus narinari,817,14
+Giant Manta Ray,Mobula birostris,818,14
+Bull Shark,Carcharhinus leucas,819,14
+Lemon Shark,Negaprion brevirostris,820,14
+Nurse Shark,Ginglymostoma cirratum,821,14
+Whale Shark,Rhincodon typus,822,14
+Caribbean Spiny Lobster,Panulirus argus,823,15
+Horseshoe Crab,Limulus polyphemus,824,15
+Broadclub Cuttlefish,Sepia latimanus,825,17
+Caribbean Reef Octopus,Octopus briareus,826,17
+Pinkfish Sea Cucumber,Holothuria edulis,827,19
+Elkhorn Coral,Acropora palmata,828,20
+Grooved Brain Coral,Diploria labyrinthiformis,829,20
+Hawksbill Turtle,Eretmochelys imbricata,830,21
+Green Turtle,Chelonia mydas,831,21
+Loggerhead Turtle,Caretta caretta,832,21
+Banded Sea Krait,Laticauda colubrina,833,21
+Bottlenose Dolphin,Tursiops truncatus,834,21
+Spinner Dolphin,Stenella longirostris,835,21
+West Indian Manatee,Trichechus manatus,836,21
+Queen Angelfish,Holacanthus ciliaris,837,1
+French Angelfish,Pomacanthus paru,838,1
+Blue Tang,Acanthurus coeruleus,839,1
+Bearded Seal,Erignathus barbatus,840,21
+Beluga Whale,Delphinapterus leucas,841,21
+Blue Whale,Balaenoptera musculus,842,21
+Bowhead Whale,Balaena mysticetus,843,21
+Dugong,Dugong dugon,844,21
+False Killer Whale,Pseudorca crassidens,845,21
+Fin Whale,Balaenoptera physalus,846,21
+Gray Seal,Halichoerus grypus,847,21
+Gray Whale,Eschrichtius robustus,848,21
+Guadalupe Fur Seal,Arctocephalus townsendi,849,21
+Harp Seal,Pagophilus groenlandicus,850,21
+Hourglass Dolphin,Lagenorhynchus cruciger,851,21
+Humpback Whale,Megaptera novaeangliae,852,21
+Juan Fernandez Fur Seal,Arctocephalus philippii,853,21
+Leopard Seal,Hydrurga leptonyx,854,21
+Long-finned Pilot Whale,Globicephala melas,855,21
+Marine Otter,Lontra felina,856,21
+Minke Whale,Balaenoptera acutorostrata,857,21
+Orca,Orcinus orca,858,21
+Pantropical Spotted Dolphin,Stenella attenuata,859,21
+Polar Bear,Ursus maritimus,860,21
+Ringed Seal,Pusa hispida,861,21
+Rissos Dolphin,Grampus griseus,862,21
+Sea Otter,Enhydra lutris,863,21
+Short-beaked Common Dolphin,Delphinus delphis,864,21
+Southern Elephant Seal,Mirounga leonina,865,21
+Sperm Whale,Physeter macrocephalus,866,21
+Steller Sea Lion,Eumetopias jubatus,867,21
+Vaquita,Phocoena sinus,868,21
+Walrus,Odobenus rosmarus,869,21
+Flatback Turtle,Natator depressus,870,21
+Kemps Ridley Turtle,Lepidochelys kempii,871,21
+Leatherback Turtle,Dermochelys coriacea,872,21
+Marine Iguana,Amblyrhynchus cristatus,873,21
+Olive Sea Snake,Aipysurus laevis,874,21
+Saltwater Crocodile,Crocodylus porosus,875,21
+Adelie Penguin,Pygoscelis adeliae,876,22
+Arctic Tern,Sterna paradisaea,877,22
+Atlantic Puffin,Fratercula arctica,878,22
+Bald Eagle,Haliaeetus leucocephalus,879,22
+Blue-footed Booby,Sula nebouxii,880,22
+Brown Pelican,Pelecanus occidentalis,881,22
+Emperor Penguin,Aptenodytes forsteri,882,22
+European Herring Gull,Larus argentatus,883,22
+Galapagos Penguin,Spheniscus mendiculus,884,22
+Gentoo Penguin,Pygoscelis papua,885,22
+Humboldt Penguin,Spheniscus humboldti,886,22
+Jackass Penguin,Spheniscus demersus,887,22
+Kelp Gull,Larus dominicanus,888,22
+King Eider,Somateria spectabilis,889,22
+King Penguin,Aptenodytes patagonicus,890,22
+Laughing Gull,Larus atricilla,891,22
+Laysan Albatross,Phoebastria immutabilis,892,22
+Little Auk,Alle alle,893,22
+Magnificent Frigatebird,Fregata magnificens,894,22
+Osprey,Pandion haliaetus,895,22
+Red-footed Booby,Sula sula,896,22
+Royal Penguin,Eudyptes schlegeli,897,22
+Southern Giant Petrel,Macronectes giganteus,898,22
+Southern Rockhopper Penguin,Eudyptes chrysocome,899,22
+Barndoor Skate,Dipturus laevis,900,14
+Basking Shark,Cetorhinus maximus,901,14
+Blue Shark,Prionace glauca,902,14
+Cookiecutter Shark,Isistius brasiliensis,903,14
+Cownose Ray,Rhinoptera bonasus,904,14
+Frilled Shark,Chlamydoselachus anguineus,905,14
+Goblin Shark,Mitsukurina owstoni,906,14
+Great Hammerhead Shark,Sphyrna mokarran,907,14
+Great White Shark,Carcharodon carcharias,908,14
+Greenland Shark,Somniosus microcephalus,909,14
+Longfin Mako Shark,Isurus paucus,910,14
+Longnose Sawshark,Pristiophorus cirratus,911,14
+Marbled Electric Ray,Torpedo marmorata,912,14
+Megamouth Shark,Megachasma pelagios,913,14
+Oceanic Whitetip Shark,Carcharhinus longimanus,914,14
+Pacific Angel Shark,Squatina californica,915,14
+Pelagic Thresher Shark,Alopias pelagicus,916,14
+Porbeagle Shark,Lamna nasus,917,14
+Porcupine Ray,Urogymnus asperrimus,918,14
+Scalloped Hammerhead Shark,Sphyrna lewini,919,14
+Shortfin Mako Shark,Isurus oxyrinchus,920,14
+Shovelnose Guitarfish,Pseudobatos productus,921,14
+Smooth Hammerhead Shark,Sphyrna zygaena,922,14
+Spinner Shark,Carcharhinus brevipinna,923,14
+Spiny Dogfish,Squalus acanthias,924,14
+Tasselled Wobbegong,Eucrossorhinus dasypogon,925,14
+Tiger Shark,Galeocerdo cuvier,926,14
+Zebra Shark,Stegostoma fasciatum,927,14
+American Lobster,Homarus americanus,928,15
+Antarctic Krill,Euphausia superba,929,15
+Argentine Shortfin Squid,Illex argentinus,930,17
+Colossal Squid,Mesonychoteuthis hamiltoni,931,17
+Giant Pacific Octopus,Enteroctopus dofleini,932,17
+Humboldt Squid,Dosidicus gigas,933,17
+Southern Blue-Ringed Octopus,Hapalochlaena maculosa,934,17
+Striped Pyjama Squid,Sepioloidea lineolata,935,17
+Giant Clam, Tridacna gigas,936,18
+Ivory Bush Coral,Oculina varicosa,937,20
+Lobe Coral,Porites lobata,938,20
+Atlantic Bluefin Tuna,Thunnus thynnus,939,3
+Atlantic Cod,Gadus morhua,940,23
+Atlantic Salmon,Salmo salar,941,23
+Beluga Sturgeon,Huso huso,942,23
+Blue Marlin,Makaira nigricans,943,23
+Chilean Common Hake,Merluccius gayi,944,23
+Chilean Jack Mackerel,Trachurus murphyi,945,3
+Coelacanth,Latimeria chalumnae,946,23
+Common Dolphinfish,Coryphaena hippurus,947,23
+Common Fangtooth,Anoplogaster cornuta,948,23
+Deep Sea Anglerfish,Melanocetus johnsonii,949,23
+John Dory,Zeus faber,950,23
+Leafy Seadragon,Phycodurus eques,951,12
+Mexican Lookdown,Selene brevoortii,952,3
+Northern Red Snapper,Lutjanus campechanus,953,5
+Oarfish,Regalecus glesne,954,23
+Ocean Sunfish,Mola mola,955,23
+Pacific Sardine,Sardinops sagax,956,3
+Peruvian Anchoveta,Engraulis ringens,957,23
+Sailfish,Istiophorus platypterus,958,23
+Sarcastic Fringehead,Neoclinus blanchardi,959,9
+Skipjack Tuna,Katsuwonus pelamis,960,3
+Slender Snipe Eel,Nemichthys scolopaceus,961,13
+Smalltooth Sawfish,Pristis pectinata,962,14
+Spotted Ratfish,Hydrolagus colliei,963,14
+Stonefish,Synanceia verrucosa,964,10
+Stoplight Loosejaw,Malacosteus niger,965,23
+Summer Flounder,Paralichthys dentatus,966,11
+Swordfish,Xiphias gladius,967,23
+Tan Bristlemouth,Cyclothone pallida,968,23
+Tropical Two-wing Flyingfish,Exocoetus volitans,969,3
+Wahoo,Acanthocybium solandri,970,3
+White-ring Garden Eel,Heteroconger canabus,971,13
+Yellowfin Tuna,Thunnus albacares,972,3

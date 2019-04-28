@@ -1,0 +1,1605 @@
+year,status,species_id,category_id,trend_id
+2016,Least Concern,1,1,1
+2010,Least Concern,2,1,2
+2010,Least Concern,3,1,3
+2010,Least Concern,4,1,4
+2010,Least Concern,5,1,5
+2010,Least Concern,6,1,6
+2010,Least Concern,7,1,7
+2010,Least Concern,8,1,8
+2010,Least Concern,9,1,9
+2010,Least Concern,10,1,10
+2010,Least Concern,11,1,11
+2010,Least Concern,12,1,12
+2010,Least Concern,13,1,13
+2010,Least Concern,14,1,14
+2010,Least Concern,15,1,15
+2010,Least Concern,16,1,16
+2010,Least Concern,17,1,17
+2010,Near Threatened,18,1,18
+2010,Least Concern,19,1,19
+2010,Least Concern,20,1,20
+2010,Least Concern,21,1,21
+2010,Least Concern,22,1,22
+2010,Least Concern,23,1,23
+2010,Least Concern,24,1,24
+2010,Least Concern,25,1,25
+2010,Least Concern,26,1,26
+2010,Least Concern,27,1,27
+2010,Least Concern,28,1,28
+2010,Least Concern,29,1,29
+2010,Least Concern,30,1,30
+2010,Least Concern,31,1,31
+2010,Least Concern,32,1,32
+2010,Least Concern,33,1,33
+2010,Least Concern,34,1,34
+2010,Least Concern,35,1,35
+2010,Data Deficient,36,1,36
+2010,Least Concern,37,1,37
+2010,Least Concern,38,1,38
+2010,Least Concern,39,1,39
+2010,Least Concern,40,1,40
+2010,Least Concern,41,1,41
+2010,Least Concern,42,1,42
+2010,Data Deficient,43,1,43
+2010,Least Concern,44,1,44
+2010,Least Concern,45,1,45
+2010,Least Concern,46,1,46
+2010,Least Concern,47,1,47
+2010,Least Concern,48,1,48
+2015,Least Concern,49,2,49
+2015,Least Concern,50,2,50
+2015,Least Concern,51,2,51
+2015,Least Concern,52,2,52
+2015,Least Concern,53,2,53
+2010,Least Concern,54,2,54
+2010,Least Concern,55,2,55
+2015,Least Concern,56,2,56
+2010,Least Concern,57,2,57
+2017,Least Concern,58,2,58
+2017,Least Concern,59,2,59
+2017,Least Concern,60,2,60
+2017,Least Concern,61,2,61
+2015,Least Concern,62,2,62
+2017,Least Concern,63,2,63
+2017,Least Concern,64,2,64
+2010,Least Concern,65,2,65
+2017,Least Concern,66,2,66
+2015,Least Concern,67,2,67
+2017,Least Concern,68,2,68
+2010,Least Concern,69,2,69
+2015,Least Concern,70,2,70
+2017,Least Concern,71,2,71
+2010,Least Concern,72,2,72
+2017,Least Concern,73,2,73
+2017,Least Concern,74,2,74
+2015,Least Concern,75,2,75
+2010,Least Concern,76,2,76
+2010,Least Concern,77,2,77
+2017,Least Concern,78,2,78
+2017,Least Concern,79,2,79
+2010,Least Concern,80,2,80
+2017,Least Concern,81,2,81
+2017,Least Concern,82,2,82
+2015,Least Concern,83,2,83
+2015,Least Concern,84,2,84
+2015,Least Concern,85,2,85
+2015,Least Concern,86,2,86
+2015,Least Concern,87,2,87
+2015,Least Concern,88,2,88
+2015,Least Concern,89,2,89
+2015,Least Concern,90,2,90
+2015,Least Concern,91,2,91
+2015,Least Concern,92,3,92
+2015,Least Concern,93,3,93
+2010,Least Concern,94,3,94
+2016,Least Concern,95,3,95
+2016,Least Concern,96,3,96
+2015,Least Concern,97,3,97
+2015,Least Concern,98,3,98
+2015,Least Concern,99,3,99
+2015,Least Concern,100,3,100
+2015,Least Concern,101,3,101
+2015,Least Concern,102,3,102
+2010,Least Concern,103,3,103
+2010,Least Concern,104,3,104
+2011,Least Concern,105,3,105
+2014,Least Concern,106,3,106
+2014,Least Concern,107,3,107
+2014,Least Concern,108,3,108
+2014,Least Concern,109,3,109
+2015,Least Concern,110,3,110
+2015,Least Concern,111,3,111
+2015,Least Concern,112,3,112
+2011,Least Concern,113,3,113
+2015,Least Concern,114,3,114
+2012,Vulnerable,115,3,115
+2015,Least Concern,116,3,116
+2012,Near Threatened,117,3,117
+2011,Least Concern,118,3,118
+2015,Least Concern,119,3,119
+2015,Least Concern,120,3,120
+2015,Least Concern,121,3,121
+2018,Least Concern,122,4,122
+2008,Least Concern,122,4,123
+2018,Vulnerable,123,4,124
+2004,Near Threatened,123,4,125
+2018,Least Concern,124,4,126
+2008,Least Concern,124,4,127
+2018,Vulnerable,125,4,128
+2006,Near Threatened,125,4,129
+2018,Least Concern,126,4,130
+2008,Least Concern,126,4,131
+2018,Least Concern,127,4,132
+2008,Least Concern,127,4,133
+2018,Least Concern,128,4,134
+2008,Least Concern,128,4,135
+2018,Near Threatened,129,4,136
+2008,Near Threatened,129,4,137
+2018,Data Deficient,130,4,138
+2004,Least Concern,130,4,139
+2018,Vulnerable,131,4,140
+2008,Vulnerable,131,4,141
+2007,Vulnerable,131,4,142
+2018,Near Threatened,132,4,143
+2004,Near Threatened,132,4,144
+2018,Least Concern,133,4,145
+2008,Vulnerable,133,4,146
+2007,Vulnerable,133,4,147
+1996,Vulnerable,133,4,148
+2018,Least Concern,134,4,149
+2008,Least Concern,134,4,150
+2018,Least Concern,135,4,151
+2008,Least Concern,135,4,152
+2018,Least Concern,136,4,153
+2008,Least Concern,136,4,154
+2018,Least Concern,137,4,155
+2008,Least Concern,137,4,156
+2018,Least Concern,138,4,157
+2008,Least Concern,138,4,158
+2018,Least Concern,139,4,159
+2017,Least Concern,139,4,160
+2008,Least Concern,139,4,161
+2018,Least Concern,140,4,162
+2008,Least Concern,140,4,163
+2018,Least Concern,141,4,164
+2008,Least Concern,141,4,165
+2018,Least Concern,142,4,166
+2008,Least Concern,142,4,167
+2018,Least Concern,143,4,168
+2008,Least Concern,143,4,169
+2018,Least Concern,144,4,170
+2008,Least Concern,144,4,171
+2018,Least Concern,145,4,172
+2017,Least Concern,145,4,173
+2008,Least Concern,145,4,174
+2018,Least Concern,146,4,175
+2008,Data Deficient,146,4,176
+2018,Least Concern,147,4,177
+2008,Least Concern,147,4,178
+2018,Least Concern,148,4,179
+2017,Least Concern,148,4,180
+2008,Least Concern,148,4,181
+2018,Data Deficient,149,4,182
+2008,Vulnerable,149,4,183
+2007,Vulnerable,149,4,184
+2000,Data Deficient,149,4,185
+2018,Least Concern,150,4,186
+2008,Least Concern,150,4,187
+2018,Least Concern,151,4,188
+2008,Near Threatened,151,4,189
+2010,Least Concern,152,4,190
+2015,Least Concern,153,4,191
+2015,Least Concern,154,4,192
+2015,Least Concern,155,4,193
+2010,Least Concern,156,4,194
+2015,Least Concern,157,4,195
+2015,Least Concern,158,4,196
+2015,Least Concern,159,4,197
+2015,Least Concern,160,4,198
+2010,Least Concern,161,4,199
+2016,Least Concern,162,4,200
+2016,Least Concern,163,4,201
+2016,Least Concern,164,4,202
+2016,Least Concern,165,4,203
+2016,Least Concern,166,4,204
+2016,Least Concern,167,4,205
+2015,Least Concern,168,4,206
+2010,Least Concern,169,4,207
+2015,Least Concern,170,4,208
+2015,Least Concern,171,4,209
+2016,Least Concern,172,4,210
+2016,Least Concern,173,4,211
+2015,Least Concern,174,4,212
+2015,Least Concern,175,4,213
+2016,Least Concern,176,5,214
+2016,Least Concern,177,5,215
+2015,Least Concern,178,5,216
+2016,Least Concern,179,5,217
+2015,Least Concern,180,5,218
+2015,Least Concern,181,5,219
+2015,Least Concern,182,5,220
+2015,Least Concern,183,5,221
+2015,Least Concern,184,5,222
+2016,Data Deficient,185,5,223
+2010,Least Concern,186,5,224
+2015,Least Concern,187,5,225
+2010,Least Concern,188,5,226
+2016,Data Deficient,189,5,227
+2016,Least Concern,190,5,228
+2010,Least Concern,191,5,229
+2016,Data Deficient,192,5,230
+2016,Least Concern,193,5,231
+2016,Least Concern,194,5,232
+2016,Vulnerable,195,5,233
+1996,Vulnerable,195,5,234
+2016,Least Concern,196,5,235
+2016,Data Deficient,197,5,236
+2016,Near Threatened,198,5,237
+1996,Vulnerable,198,5,238
+2016,Near Threatened,199,5,239
+2016,Least Concern,200,5,240
+2016,Least Concern,201,5,241
+2010,Least Concern,202,5,242
+2016,Least Concern,203,5,243
+2010,Least Concern,204,5,244
+2016,Data Deficient,205,5,245
+2016,Least Concern,206,5,246
+2010,Least Concern,207,5,247
+2016,Least Concern,208,5,248
+2016,Least Concern,209,5,249
+2016,Least Concern,210,5,250
+2016,Least Concern,211,5,251
+2016,Least Concern,212,5,252
+2016,Least Concern,213,5,253
+2016,Least Concern,214,5,254
+2010,Least Concern,215,5,255
+2016,Least Concern,216,5,256
+2016,Least Concern,217,5,257
+2016,Least Concern,218,5,258
+2012,Least Concern,219,6,259
+2010,Least Concern,219,6,260
+2012,Data Deficient,220,6,261
+2010,Data Deficient,220,6,262
+2012,Near Threatened,221,6,263
+2010,Data Deficient,221,6,264
+1996,Vulnerable,221,6,265
+2012,Least Concern,222,6,266
+2010,Least Concern,222,6,267
+2012,Least Concern,223,6,268
+2010,Least Concern,223,6,269
+2012,Least Concern,224,6,270
+2010,Least Concern,224,6,271
+2012,Least Concern,225,6,272
+2010,Least Concern,225,6,273
+2012,Least Concern,226,6,274
+2010,Least Concern,226,6,275
+2012,Least Concern,227,6,276
+2010,Least Concern,227,6,277
+2012,Least Concern,228,6,278
+2010,Least Concern,228,6,279
+2012,Least Concern,229,6,280
+2010,Least Concern,229,6,281
+2012,Least Concern,230,6,282
+2010,Least Concern,230,6,283
+2012,Least Concern,231,6,284
+2010,Least Concern,231,6,285
+2012,Least Concern,232,6,286
+2010,Least Concern,232,6,287
+2012,Least Concern,233,6,288
+2010,Least Concern,233,6,289
+2012,Least Concern,234,6,290
+2010,Least Concern,234,6,291
+2012,Least Concern,235,6,292
+2010,Least Concern,235,6,293
+2012,Least Concern,236,6,294
+2010,Least Concern,236,6,295
+2012,Least Concern,237,6,296
+2010,Least Concern,237,6,297
+2012,Least Concern,238,6,298
+2010,Least Concern,238,6,299
+2012,Least Concern,239,6,300
+2010,Least Concern,239,6,301
+2012,Least Concern,240,6,302
+2010,Least Concern,240,6,303
+2012,Least Concern,241,6,304
+2010,Least Concern,241,6,305
+2012,Vulnerable,242,6,306
+2007,Vulnerable,242,6,307
+2012,Least Concern,243,6,308
+2010,Least Concern,243,6,309
+2004,Endangered,244,6,310
+1996,Vulnerable,244,6,311
+2010,Least Concern,245,6,312
+2010,Least Concern,246,6,313
+2010,Least Concern,247,6,314
+2010,Least Concern,248,6,315
+2010,Least Concern,249,6,316
+2010,Least Concern,250,6,317
+2010,Least Concern,251,6,318
+2010,Least Concern,252,6,319
+2010,Least Concern,253,6,320
+2010,Least Concern,254,6,321
+2010,Least Concern,255,6,322
+2010,Least Concern,256,6,323
+2010,Least Concern,257,6,324
+2010,Least Concern,258,6,325
+2010,Least Concern,259,6,326
+2010,Least Concern,260,6,327
+2010,Least Concern,261,6,328
+2010,Least Concern,262,6,329
+2010,Least Concern,263,6,330
+2010,Least Concern,264,6,331
+2010,Least Concern,265,6,332
+2010,Least Concern,266,6,333
+2010,Least Concern,267,6,334
+2010,Least Concern,268,6,335
+2010,Least Concern,269,6,336
+2010,Least Concern,270,6,337
+2010,Least Concern,271,6,338
+2010,Least Concern,272,6,339
+2010,Least Concern,273,6,340
+2010,Least Concern,274,6,341
+2010,Least Concern,275,6,342
+2010,Least Concern,276,6,343
+2010,Least Concern,277,6,344
+2010,Least Concern,278,6,345
+2010,Least Concern,279,6,346
+2010,Least Concern,280,6,347
+2010,Least Concern,281,6,348
+2010,Least Concern,282,6,349
+2010,Least Concern,283,6,350
+2010,Least Concern,284,6,351
+2010,Least Concern,285,6,352
+2010,Least Concern,286,6,353
+2010,Least Concern,287,6,354
+2010,Least Concern,288,6,355
+2010,Least Concern,289,6,356
+2010,Least Concern,290,6,357
+2010,Data Deficient,291,6,358
+2010,Least Concern,292,6,359
+2010,Least Concern,293,6,360
+2010,Least Concern,294,6,361
+2010,Data Deficient,295,6,362
+2010,Least Concern,296,6,363
+2010,Least Concern,297,6,364
+2010,Least Concern,298,6,365
+2010,Least Concern,299,6,366
+2010,Least Concern,300,6,367
+2010,Least Concern,301,6,368
+2010,Least Concern,302,6,369
+2010,Least Concern,303,6,370
+2010,Vulnerable,304,6,371
+1996,Vulnerable,304,6,372
+2010,Least Concern,305,6,373
+2010,Least Concern,306,6,374
+2010,Least Concern,307,6,375
+2010,Least Concern,308,6,376
+2010,Least Concern,309,6,377
+2010,Least Concern,310,6,378
+2010,Least Concern,311,6,379
+2010,Least Concern,312,6,380
+2010,Least Concern,313,6,381
+2010,Least Concern,314,6,382
+2010,Least Concern,315,6,383
+2010,Least Concern,316,6,384
+2010,Least Concern,317,6,385
+2010,Least Concern,318,6,386
+2010,Least Concern,319,6,387
+2015,Least Concern,320,7,388
+2015,Least Concern,321,7,389
+2015,Least Concern,322,7,390
+2015,Least Concern,323,7,391
+2015,Least Concern,324,7,392
+2016,Least Concern,325,7,393
+2016,Least Concern,326,7,394
+2016,Least Concern,327,7,395
+2016,Least Concern,328,7,396
+2016,Least Concern,329,7,397
+2016,Least Concern,330,7,398
+2016,Least Concern,331,7,399
+2016,Least Concern,332,7,400
+2016,Least Concern,333,7,401
+2015,Least Concern,334,7,402
+2016,Least Concern,335,7,403
+2016,Least Concern,336,7,404
+2016,Least Concern,337,7,405
+2016,Least Concern,338,7,406
+2016,Least Concern,339,7,407
+2016,Least Concern,340,7,408
+2010,Least Concern,341,7,409
+2015,Least Concern,342,7,410
+2016,Least Concern,343,7,411
+2007,Endangered,344,7,412
+2015,Least Concern,345,7,413
+2015,Least Concern,346,7,414
+2015,Least Concern,347,7,415
+2015,Least Concern,348,7,416
+2015,Least Concern,349,7,417
+2010,Least Concern,350,7,418
+2015,Vulnerable,351,8,419
+2015,Vulnerable,352,8,420
+2015,Least Concern,353,8,421
+2010,Least Concern,354,8,422
+2015,Least Concern,355,8,423
+2015,Least Concern,356,8,424
+2015,Least Concern,357,8,425
+2015,Least Concern,358,8,426
+2015,Least Concern,359,8,427
+2015,Least Concern,360,8,428
+2015,Least Concern,361,8,429
+2015,Least Concern,362,8,430
+2010,Least Concern,363,8,431
+2015,Least Concern,364,8,432
+2015,Least Concern,365,8,433
+2016,Least Concern,366,8,434
+2016,Least Concern,367,8,435
+2016,Least Concern,368,8,436
+2016,Least Concern,369,8,437
+2019,Least Concern,370,8,438
+2019,Least Concern,371,8,439
+2016,Least Concern,372,8,440
+2016,Least Concern,373,8,441
+2016,Least Concern,374,8,442
+2016,Data Deficient,375,8,443
+2016,Least Concern,376,8,444
+2016,Least Concern,377,8,445
+2016,Least Concern,378,8,446
+2016,Least Concern,379,8,447
+2010,Least Concern,380,8,448
+2019,Least Concern,381,8,449
+2016,Least Concern,382,8,450
+2016,Least Concern,383,8,451
+2016,Least Concern,384,8,452
+2016,Least Concern,385,8,453
+2010,Least Concern,386,8,454
+2016,Least Concern,387,8,455
+2014,Least Concern,388,8,456
+2014,Least Concern,389,8,457
+2014,Least Concern,390,8,458
+2010,Least Concern,391,8,459
+2014,Least Concern,392,8,460
+2014,Least Concern,393,8,461
+2014,Least Concern,394,8,462
+2014,Least Concern,395,8,463
+2014,Least Concern,396,8,464
+2010,Least Concern,397,8,465
+2010,Least Concern,398,8,466
+2014,Least Concern,399,8,467
+2014,Least Concern,400,8,468
+2010,Least Concern,400,8,469
+2014,Least Concern,401,8,470
+2014,Least Concern,402,8,471
+2014,Least Concern,403,8,472
+2014,Least Concern,404,8,473
+2014,Least Concern,405,8,474
+2010,Least Concern,406,8,475
+2014,Least Concern,407,8,476
+2014,Least Concern,408,8,477
+2014,Least Concern,409,8,478
+2014,Least Concern,410,8,479
+2014,Least Concern,411,8,480
+2014,Least Concern,412,8,481
+2014,Least Concern,413,8,482
+2014,Least Concern,414,8,483
+2014,Least Concern,415,8,484
+2014,Least Concern,416,8,485
+2014,Least Concern,417,8,486
+2014,Least Concern,418,8,487
+2010,Least Concern,419,8,488
+2014,Least Concern,420,8,489
+2010,Least Concern,421,8,490
+2014,Least Concern,422,8,491
+2010,Least Concern,423,8,492
+2010,Least Concern,424,9,493
+2016,Least Concern,425,9,494
+2016,Least Concern,426,9,495
+2015,Least Concern,427,9,496
+2015,Least Concern,428,9,497
+2015,Least Concern,429,9,498
+2010,Least Concern,430,9,499
+2016,Least Concern,431,9,500
+2016,Least Concern,432,9,501
+2016,Least Concern,433,9,502
+2016,Least Concern,434,9,503
+2016,Least Concern,435,9,504
+2016,Least Concern,436,9,505
+2016,Least Concern,437,9,506
+2016,Least Concern,438,9,507
+2015,Least Concern,439,9,508
+2015,Least Concern,440,10,509
+2016,Least Concern,441,10,510
+2010,Least Concern,442,10,511
+2016,Least Concern,443,10,512
+2016,Least Concern,444,10,513
+2016,Least Concern,445,10,514
+2016,Least Concern,446,10,515
+2016,Least Concern,447,10,516
+2016,Least Concern,448,10,517
+2016,Least Concern,449,10,518
+2016,Least Concern,450,10,519
+2017,Least Concern,451,10,520
+2010,Data Deficient,451,10,521
+1996,Data Deficient,451,10,522
+2015,Least Concern,452,10,523
+2015,Least Concern,453,10,524
+2016,Least Concern,454,10,525
+2010,Least Concern,455,10,526
+2010,Least Concern,456,10,527
+2015,Least Concern,457,10,528
+2016,Least Concern,458,10,529
+2018,Least Concern,459,10,530
+2015,Endangered,460,10,531
+1996,Vulnerable,460,10,532
+2015,Vulnerable,461,10,533
+1996,Vulnerable,461,10,534
+2015,Least Concern,462,10,535
+2015,Least Concern,463,10,536
+2015,Least Concern,464,10,537
+2016,Least Concern,465,10,538
+2018,Least Concern,466,10,539
+2016,Least Concern,467,10,540
+2016,Least Concern,468,10,541
+2016,Least Concern,469,10,542
+2016,Least Concern,470,10,543
+2016,Least Concern,471,10,544
+2016,Least Concern,472,10,545
+2016,Least Concern,473,10,546
+2015,Least Concern,474,10,547
+2015,Least Concern,475,10,548
+2015,Least Concern,476,10,549
+2010,Least Concern,477,10,550
+2016,Least Concern,478,10,551
+2016,Least Concern,479,10,552
+2016,Data Deficient,480,10,553
+2016,Least Concern,481,10,554
+2016,Least Concern,482,10,555
+2016,Least Concern,483,10,556
+2016,Least Concern,484,10,557
+2016,Near Threatened,485,10,558
+2018,Least Concern,486,10,559
+2018,Least Concern,487,10,560
+2018,Least Concern,488,10,561
+2015,Near Threatened,489,11,562
+1996,Vulnerable,489,11,563
+2010,Least Concern,490,11,564
+2015,Least Concern,491,11,565
+2015,Least Concern,492,11,566
+2015,Least Concern,493,11,567
+2010,Least Concern,494,11,568
+2015,Least Concern,495,11,569
+2016,Least Concern,496,11,570
+2015,Least Concern,497,11,571
+2016,Least Concern,498,11,572
+2016,Least Concern,499,11,573
+2016,Least Concern,500,11,574
+2015,Least Concern,501,11,575
+2019,Least Concern,502,11,576
+2016,Least Concern,503,11,577
+2016,Least Concern,504,11,578
+2016,Least Concern,505,11,579
+2015,Least Concern,506,11,580
+2016,Least Concern,507,11,581
+2016,Vulnerable,508,11,582
+2015,Least Concern,509,11,583
+2015,Least Concern,510,11,584
+2015,Least Concern,511,11,585
+2015,Least Concern,512,11,586
+2015,Least Concern,513,11,587
+2015,Least Concern,514,11,588
+2015,Least Concern,515,11,589
+2015,Least Concern,516,11,590
+2015,Least Concern,517,11,591
+2014,Least Concern,518,11,592
+2014,Least Concern,519,11,593
+2014,Least Concern,520,11,594
+2014,Least Concern,521,11,595
+2014,Least Concern,522,11,596
+2014,Least Concern,523,11,597
+2014,Least Concern,524,11,598
+2014,Least Concern,525,11,599
+2014,Least Concern,526,11,600
+2014,Least Concern,527,11,601
+2014,Least Concern,528,11,602
+2014,Least Concern,529,11,603
+2014,Least Concern,530,11,604
+2014,Least Concern,531,11,605
+2014,Least Concern,532,11,606
+2014,Least Concern,533,11,607
+2010,Least Concern,534,11,608
+2014,Least Concern,535,11,609
+2014,Least Concern,536,11,610
+2014,Least Concern,537,11,611
+2014,Least Concern,538,11,612
+2014,Least Concern,539,11,613
+2015,Least Concern,540,11,614
+2015,Least Concern,541,11,615
+2015,Least Concern,542,11,616
+2015,Least Concern,543,11,617
+2015,Least Concern,544,11,618
+2015,Least Concern,545,11,619
+2016,Least Concern,546,11,620
+2016,Least Concern,547,11,621
+2010,Least Concern,548,11,622
+2010,Least Concern,549,11,623
+2016,Least Concern,550,11,624
+2016,Least Concern,551,11,625
+2016,Least Concern,552,11,626
+2016,Near Threatened,553,11,627
+2016,Least Concern,554,11,628
+2016,Least Concern,555,11,629
+2016,Least Concern,556,11,630
+2016,Data Deficient,557,11,631
+2016,Least Concern,558,11,632
+2015,Least Concern,559,11,633
+2016,Least Concern,560,11,634
+2015,Least Concern,561,11,635
+2015,Least Concern,562,11,636
+2015,Data Deficient,563,11,637
+2017,Vulnerable,564,12,638
+2012,Vulnerable,564,12,639
+2002,Data Deficient,564,12,640
+2014,Vulnerable,565,12,641
+2003,Vulnerable,565,12,642
+1996,Vulnerable,565,12,643
+2015,Vulnerable,566,12,644
+2003,Vulnerable,566,12,645
+1996,Vulnerable,566,12,646
+2017,Vulnerable,567,12,647
+2012,Vulnerable,567,12,648
+2003,Vulnerable,567,12,649
+1996,Vulnerable,567,12,650
+2017,Data Deficient,568,12,651
+2003,Data Deficient,568,12,652
+1996,Data Deficient,568,12,653
+2017,Least Concern,569,12,654
+2016,Least Concern,570,12,655
+2016,Least Concern,571,12,656
+2017,Least Concern,572,12,657
+2016,Least Concern,572,12,658
+2010,Least Concern,572,12,659
+2015,Least Concern,573,12,660
+2017,Least Concern,574,12,661
+2017,Least Concern,575,12,662
+2016,Least Concern,576,12,663
+2010,Least Concern,576,12,664
+2016,Least Concern,577,12,665
+2016,Least Concern,578,12,666
+2016,Least Concern,579,12,667
+2017,Data Deficient,580,12,668
+2010,Least Concern,580,12,669
+2016,Least Concern,581,12,670
+2016,Least Concern,582,12,671
+2017,Least Concern,583,12,672
+2008,Data Deficient,583,12,673
+1996,Data Deficient,583,12,674
+2010,Least Concern,584,13,675
+2015,Least Concern,585,13,676
+2010,Least Concern,586,13,677
+2015,Least Concern,587,13,678
+2019,Least Concern,588,13,679
+2019,Least Concern,589,13,680
+2019,Least Concern,590,13,681
+2019,Least Concern,591,13,682
+2019,Least Concern,592,13,683
+2019,Least Concern,593,13,684
+2019,Least Concern,594,13,685
+2019,Least Concern,595,13,686
+2019,Least Concern,596,13,687
+2019,Least Concern,597,13,688
+2015,Least Concern,598,13,689
+2019,Least Concern,599,13,690
+2019,Least Concern,600,13,691
+2019,Least Concern,601,13,692
+2015,Least Concern,602,13,693
+2019,Least Concern,603,13,694
+2019,Least Concern,604,13,695
+2015,Least Concern,605,13,696
+2015,Least Concern,606,13,697
+2019,Least Concern,607,13,698
+2019,Least Concern,608,13,699
+2019,Least Concern,609,13,700
+2015,Least Concern,610,13,701
+2015,Least Concern,611,13,702
+2010,Least Concern,612,13,703
+2019,Data Deficient,613,13,704
+2019,Least Concern,614,13,705
+2015,Least Concern,615,13,706
+2019,Least Concern,616,13,707
+2019,Least Concern,617,13,708
+2010,Data Deficient,618,13,709
+2019,Least Concern,619,13,710
+2006,Data Deficient,620,14,711
+2018,Data Deficient,621,14,712
+2009,Near Threatened,622,14,713
+2000,Lower Risk/near threatened,622,14,714
+2017,Near Threatened,623,14,715
+2006,Least Concern,624,14,716
+2006,Data Deficient,625,14,717
+2007,Data Deficient,626,14,718
+2009,Near Threatened,627,14,719
+2000,Lower Risk/near threatened,627,14,720
+2003,Vulnerable,628,14,721
+2009,Near Threatened,629,14,722
+2000,Lower Risk/near threatened,629,14,723
+2011,Least Concern,630,15,724
+2011,Data Deficient,631,15,725
+2011,Data Deficient,632,15,726
+2011,Least Concern,633,15,727
+2011,Least Concern,634,15,728
+2011,Least Concern,635,15,729
+2011,Least Concern,636,15,730
+2011,Least Concern,637,15,731
+2011,Least Concern,638,15,732
+2011,Least Concern,639,15,733
+2011,Least Concern,640,15,734
+2013,Least Concern,641,16,735
+2013,Least Concern,642,16,736
+2012,Data Deficient,643,17,737
+2012,Least Concern,644,17,738
+2012,Data Deficient,645,17,739
+2018,Least Concern,646,17,740
+2018,Least Concern,647,17,741
+2018,Least Concern,648,17,742
+2018,Least Concern,649,17,743
+2018,Least Concern,650,17,744
+2018,Data Deficient,651,17,745
+1996,Vulnerable,652,18,746
+1994,Vulnerable,652,18,747
+1990,Vulnerable,652,18,748
+1988,Vulnerable,652,18,749
+1986,Vulnerable,652,18,750
+1983,Vulnerable,652,18,751
+1996,Vulnerable,653,18,752
+1994,Vulnerable,653,18,753
+1990,Vulnerable,653,18,754
+1988,Vulnerable,653,18,755
+1986,Vulnerable,653,18,756
+1983,Vulnerable,653,18,757
+1996,Lower Risk/least concern,654,18,758
+1994,Insufficiently Known,654,18,759
+1990,Insufficiently Known,654,18,760
+1988,Insufficiently Known,654,18,761
+1986,Insufficiently Known,654,18,762
+1983,Insufficiently Known,654,18,763
+1996,Lower Risk/conservation dependent,655,18,764
+1994,Indeterminate,655,18,765
+1990,Indeterminate,655,18,766
+1988,Indeterminate,655,18,767
+1986,Indeterminate,655,18,768
+1983,Indeterminate,655,18,769
+1996,Lower Risk/conservation dependent,656,18,770
+1994,Insufficiently Known,656,18,771
+1990,Insufficiently Known,656,18,772
+1988,Insufficiently Known,656,18,773
+1986,Insufficiently Known,656,18,774
+1983,Insufficiently Known,656,18,775
+1996,Lower Risk/conservation dependent,657,18,776
+1994,Indeterminate,657,18,777
+1990,Indeterminate,657,18,778
+1988,Indeterminate,657,18,779
+1986,Indeterminate,657,18,780
+1983,Indeterminate,657,18,781
+2013,Least Concern,658,19,782
+2013,Least Concern,659,19,783
+2013,Data Deficient,660,19,784
+2013,Least Concern,661,19,785
+2013,Least Concern,662,19,786
+2013,Least Concern,663,19,787
+2013,Endangered,664,19,788
+2013,Least Concern,665,19,789
+2013,Data Deficient,666,19,790
+2013,Data Deficient,667,19,791
+2013,Data Deficient,668,19,792
+2013,Data Deficient,669,19,793
+2013,Vulnerable,670,19,794
+2013,Endangered,671,19,795
+2013,Vulnerable,672,19,796
+2013,Least Concern,673,19,797
+2013,Least Concern,674,19,798
+2013,Data Deficient,675,19,799
+2013,Least Concern,676,19,800
+2013,Data Deficient,677,19,801
+2013,Least Concern,678,19,802
+2013,Least Concern,679,19,803
+2013,Least Concern,680,19,804
+2013,Least Concern,681,19,805
+2013,Least Concern,682,19,806
+2008,Least Concern,683,20,807
+2008,Least Concern,684,20,808
+2008,Critically Endangered,685,20,809
+2008,Least Concern,686,20,810
+2008,Least Concern,687,20,811
+2008,Least Concern,688,20,812
+2008,Vulnerable,689,20,813
+2008,Least Concern,690,20,814
+2008,Least Concern,691,20,815
+2008,Endangered,692,20,816
+2008,Endangered,693,20,817
+2008,Vulnerable,694,20,818
+2008,Least Concern,695,20,819
+2008,Least Concern,696,20,820
+2008,Least Concern,697,20,821
+2008,Least Concern,698,20,822
+2008,Least Concern,699,20,823
+2008,Least Concern,700,20,824
+2008,Least Concern,701,20,825
+2008,Least Concern,702,20,826
+2008,Least Concern,703,20,827
+2008,Least Concern,704,20,828
+2008,Vulnerable,705,20,829
+2008,Data Deficient,706,20,830
+2008,Least Concern,707,20,831
+2008,Least Concern,708,20,832
+2008,Near Threatened,709,20,833
+2008,Least Concern,710,20,834
+2008,Least Concern,711,20,835
+2008,Vulnerable,712,20,836
+2008,Least Concern,713,20,837
+2008,Least Concern,714,20,838
+2008,Least Concern,715,20,839
+2014,Near Threatened,716,20,840
+2008,Near Threatened,716,20,841
+2014,Least Concern,717,20,842
+2008,Least Concern,717,20,843
+2014,Least Concern,718,20,844
+2008,Least Concern,718,20,845
+2008,Least Concern,719,20,846
+2008,Near Threatened,720,20,847
+2014,Least Concern,721,20,848
+2008,Least Concern,721,20,849
+2008,Near Threatened,722,20,850
+2008,Least Concern,723,20,851
+2008,Near Threatened,724,20,852
+2014,Near Threatened,725,20,853
+2008,Near Threatened,725,20,854
+2014,Least Concern,726,20,855
+2008,Least Concern,726,20,856
+2014,Least Concern,727,20,857
+2008,Least Concern,727,20,858
+2014,Least Concern,728,20,859
+2008,Least Concern,728,20,860
+2014,Least Concern,729,20,861
+2008,Least Concern,729,20,862
+2014,Near Threatened,730,20,863
+2008,Near Threatened,730,20,864
+2014,Least Concern,731,20,865
+2008,Least Concern,731,20,866
+2014,Least Concern,732,20,867
+2008,Least Concern,732,20,868
+2008,Near Threatened,733,20,869
+2014,Near Threatened,734,20,870
+2008,Near Threatened,734,20,871
+2008,Vulnerable,735,20,872
+2014,Near Threatened,736,20,873
+2008,Near Threatened,736,20,874
+2014,Vulnerable,737,20,875
+2008,Vulnerable,737,20,876
+2008,Vulnerable,738,20,877
+2010,Least Concern,739,21,878
+2018,Least Concern,740,21,879
+2011,Data Deficient,740,21,880
+2008,Data Deficient,740,21,881
+1996,Lower Risk/conservation dependent,740,21,882
+1994,Insufficiently Known,740,21,883
+2010,Least Concern,741,1,884
+2010,Least Concern,742,1,885
+2010,Vulnerable,743,1,886
+2010,Least Concern,744,1,887
+2010,Least Concern,745,1,888
+2010,Least Concern,746,1,889
+2010,Least Concern,747,1,890
+2010,Least Concern,748,1,891
+2010,Least Concern,749,1,892
+2010,Least Concern,750,1,893
+2010,Least Concern,751,1,894
+2010,Least Concern,752,1,895
+2010,Least Concern,753,1,896
+2010,Least Concern,754,1,897
+2010,Least Concern,755,1,898
+2010,Least Concern,756,1,899
+2010,Least Concern,757,1,900
+2010,Least Concern,758,1,901
+2010,Least Concern,759,1,902
+2010,Least Concern,760,1,903
+2010,Least Concern,761,1,904
+2010,Least Concern,762,1,905
+2010,Least Concern,763,1,906
+2010,Least Concern,764,1,907
+2010,Least Concern,765,1,908
+2012,Least Concern,766,1,909
+2012,Least Concern,767,1,910
+2012,Least Concern,768,1,911
+2012,Least Concern,769,1,912
+2012,Least Concern,770,1,913
+2012,Least Concern,771,1,914
+2012,Least Concern,772,1,915
+2012,Least Concern,773,1,916
+2012,Least Concern,774,1,917
+2012,Least Concern,775,1,918
+2012,Least Concern,776,1,919
+2012,Least Concern,777,1,920
+2012,Least Concern,778,1,921
+2012,Least Concern,779,1,922
+2012,Least Concern,780,1,923
+2012,Least Concern,781,1,924
+2012,Least Concern,782,1,925
+2012,Least Concern,783,1,926
+2012,Least Concern,784,1,927
+2012,Least Concern,785,1,928
+2012,Least Concern,786,1,929
+2010,Least Concern,786,1,930
+2012,Least Concern,787,1,931
+2012,Least Concern,788,1,932
+2012,Least Concern,789,1,933
+2012,Least Concern,790,1,934
+2012,Least Concern,791,1,935
+2012,Least Concern,792,1,936
+2012,Least Concern,793,1,937
+2012,Least Concern,794,1,938
+2012,Least Concern,795,1,939
+2012,Least Concern,796,1,940
+2010,Least Concern,796,1,941
+2016,Least Concern,797,1,942
+2018,Least Concern,798,1,943
+2016,Least Concern,799,1,944
+2016,Least Concern,800,1,945
+2016,Least Concern,801,1,946
+2016,Least Concern,802,1,947
+2016,Least Concern,803,1,948
+2010,Least Concern,804,1,949
+2015,Least Concern,805,2,950
+2018,Vulnerable,806,4,951
+2011,Critically Endangered,806,4,952
+2018,Critically Endangered,807,4,953
+2003,Endangered,807,4,954
+1996,Endangered,807,4,955
+2012,Least Concern,808,6,956
+2010,Least Concern,808,6,957
+2010,Least Concern,809,6,958
+2010,Least Concern,810,8,959
+2016,Least Concern,811,10,960
+2015,Least Concern,812,11,961
+2014,Least Concern,813,11,962
+2015,Least Concern,814,11,963
+2017,Near Threatened,815,12,964
+2003,Data Deficient,815,12,965
+1996,Vulnerable,815,12,966
+2015,Least Concern,816,13,967
+2006,Near Threatened,817,14,968
+2000,Data Deficient,817,14,969
+2018,Vulnerable,818,14,970
+2011,Vulnerable,818,14,971
+2009,Near Threatened,819,14,972
+2000,Lower Risk/near threatened,819,14,973
+2015,Near Threatened,820,14,974
+2009,Near Threatened,820,14,975
+2000,Lower Risk/near threatened,820,14,976
+2006,Data Deficient,821,14,977
+2016,Endangered,822,14,978
+2005,Vulnerable,822,14,979
+2000,Vulnerable,822,14,980
+1996,Data Deficient,822,14,981
+1994,Indeterminate,822,14,982
+1990,Indeterminate,822,14,983
+2011,Data Deficient,823,15,984
+2016,Vulnerable,824,15,985
+1996,Lower Risk/near threatened,824,15,986
+1994,Insufficiently Known,824,15,987
+1990,Insufficiently Known,824,15,988
+1988,Insufficiently Known,824,15,989
+1986,Insufficiently Known,824,15,990
+1983,Insufficiently Known,824,15,991
+2012,Data Deficient,825,17,992
+2018,Least Concern,826,17,993
+2013,Least Concern,827,19,994
+2008,Critically Endangered,828,20,995
+2008,Least Concern,829,20,996
+2008,Critically Endangered,830,21,997
+1996,Critically Endangered,830,21,998
+1994,Endangered,830,21,999
+1990,Endangered,830,21,1000
+1988,Endangered,830,21,1001
+1986,Endangered,830,21,1002
+1982,Endangered,830,21,1003
+2004,Endangered,831,21,1004
+1996,Endangered,831,21,1005
+1994,Endangered,831,21,1006
+1990,Endangered,831,21,1007
+1988,Endangered,831,21,1008
+1986,Endangered,831,21,1009
+1982,Endangered,831,21,1010
+2015,Vulnerable,832,21,1011
+1996,Endangered,832,21,1012
+1994,Vulnerable,832,21,1013
+1990,Vulnerable,832,21,1014
+1988,Vulnerable,832,21,1015
+1986,Vulnerable,832,21,1016
+1982,Vulnerable,832,21,1017
+2010,Least Concern,833,21,1018
+2019,Least Concern,834,21,1019
+2012,Least Concern,834,21,1020
+2008,Least Concern,834,21,1021
+1996,Data Deficient,834,21,1022
+1994,Insufficiently Known,834,21,1023
+2018,Least Concern,835,21,1024
+2012,Data Deficient,835,21,1025
+2008,Data Deficient,835,21,1026
+1996,Lower Risk/conservation dependent,835,21,1027
+2008,Vulnerable,836,21,1028
+2007,Vulnerable,836,21,1029
+1996,Vulnerable,836,21,1030
+1994,Vulnerable,836,21,1031
+1990,Vulnerable,836,21,1032
+1988,Vulnerable,836,21,1033
+1986,Vulnerable,836,21,1034
+1982,Vulnerable,836,21,1035
+1965,"""Status inadequately known-survey required or data sought""",836,21,1036
+2010,Least Concern,837,1,1037
+2010,Least Concern,838,1,1038
+2012,Least Concern,839,1,1039
+2016,Least Concern,840,21,1040
+2008,Least Concern,840,21,1041
+1996,Lower Risk/least concern,840,21,1042
+2017,Least Concern,841,21,1043
+2012,Near Threatened,841,21,1044
+2008,Near Threatened,841,21,1045
+1996,Vulnerable,841,21,1046
+1994,Insufficiently Known,841,21,1047
+1990,Insufficiently Known,841,21,1048
+1988,Insufficiently Known,841,21,1049
+2018,Endangered,842,21,1050
+2008,Endangered,842,21,1051
+1996,Endangered,842,21,1052
+1994,Endangered,842,21,1053
+1990,Endangered,842,21,1054
+1988,Endangered,842,21,1055
+1986,Endangered,842,21,1056
+1965,"""Very rare and believed to be decreasing in numbers""",842,21,1057
+2018,Least Concern,843,21,1058
+2012,Least Concern,843,21,1059
+2008,Least Concern,843,21,1060
+1996,Lower Risk/conservation dependent,843,21,1061
+1994,Vulnerable,843,21,1062
+1990,Vulnerable,843,21,1063
+1988,Endangered,843,21,1064
+1986,Endangered,843,21,1065
+1965,"""Very rare but believed to be stable or increasing""",843,21,1066
+2015,Vulnerable,844,21,1067
+2008,Vulnerable,844,21,1068
+2006,Vulnerable,844,21,1069
+1996,Vulnerable,844,21,1070
+1994,Vulnerable,844,21,1071
+1990,Vulnerable,844,21,1072
+1988,Vulnerable,844,21,1073
+1986,Vulnerable,844,21,1074
+1982,Vulnerable,844,21,1075
+1965,"""Status inadequately known-survey required or data sought""",844,21,1076
+2018,Near Threatened,845,21,1077
+2008,Data Deficient,845,21,1078
+1996,Lower Risk/least concern,845,21,1079
+1994,Insufficiently Known,845,21,1080
+2018,Vulnerable,846,21,1081
+2013,Endangered,846,21,1082
+2008,Endangered,846,21,1083
+1996,Endangered,846,21,1084
+1994,Vulnerable,846,21,1085
+1990,Vulnerable,846,21,1086
+1988,Vulnerable,846,21,1087
+1986,Vulnerable,846,21,1088
+1965,"""Less rare but believed to be threatened-requires watching""",846,21,1089
+2016,Least Concern,847,21,1090
+2008,Least Concern,847,21,1091
+1996,Lower Risk/least concern,847,21,1092
+2018,Least Concern,848,21,1093
+2008,Least Concern,848,21,1094
+1996,Lower Risk/conservation dependent,848,21,1095
+2015,Least Concern,849,21,1096
+2008,Near Threatened,849,21,1097
+1996,Vulnerable,849,21,1098
+1994,Vulnerable,849,21,1099
+1990,Vulnerable,849,21,1100
+1988,Vulnerable,849,21,1101
+1986,Vulnerable,849,21,1102
+1982,Vulnerable,849,21,1103
+1965,"""Very rare but believed to be stable or increasing""",849,21,1104
+2015,Least Concern,850,21,1105
+2008,Least Concern,850,21,1106
+1996,Lower Risk/least concern,850,21,1107
+2018,Least Concern,851,21,1108
+2008,Least Concern,851,21,1109
+1996,Lower Risk/least concern,851,21,1110
+1994,Insufficiently Known,851,21,1111
+2018,Least Concern,852,21,1112
+2008,Least Concern,852,21,1113
+1996,Vulnerable,852,21,1114
+1994,Vulnerable,852,21,1115
+1990,Vulnerable,852,21,1116
+1988,Endangered,852,21,1117
+1986,Endangered,852,21,1118
+1965,"""Less rare but believed to be threatened-requires watching""",852,21,1119
+2015,Least Concern,853,21,1120
+2008,Near Threatened,853,21,1121
+1996,Vulnerable,853,21,1122
+1994,Vulnerable,853,21,1123
+1990,Vulnerable,853,21,1124
+1988,Vulnerable,853,21,1125
+1986,Vulnerable,853,21,1126
+1982,Vulnerable,853,21,1127
+1965,"""Status inadequately known-survey required or data sought""",853,21,1128
+2015,Least Concern,854,21,1129
+2008,Least Concern,854,21,1130
+1996,Lower Risk/least concern,854,21,1131
+2018,Least Concern,855,21,1132
+2008,Data Deficient,855,21,1133
+1996,Lower Risk/least concern,855,21,1134
+1994,Insufficiently Known,855,21,1135
+2015,Endangered,856,21,1136
+2008,Endangered,856,21,1137
+2004,Endangered,856,21,1138
+2000,Endangered,856,21,1139
+1996,Endangered,856,21,1140
+1994,Vulnerable,856,21,1141
+1990,Vulnerable,856,21,1142
+1988,Vulnerable,856,21,1143
+1986,Vulnerable,856,21,1144
+1982,Vulnerable,856,21,1145
+2018,Least Concern,857,21,1146
+2008,Least Concern,857,21,1147
+1996,Lower Risk/near threatened,857,21,1148
+1994,Insufficiently Known,857,21,1149
+2017,Data Deficient,858,21,1150
+2013,Data Deficient,858,21,1151
+2008,Data Deficient,858,21,1152
+1996,Lower Risk/conservation dependent,858,21,1153
+1994,Insufficiently Known,858,21,1154
+2018,Least Concern,859,21,1155
+2012,Least Concern,859,21,1156
+2008,Least Concern,859,21,1157
+1996,Lower Risk/conservation dependent,859,21,1158
+1994,Insufficiently Known,859,21,1159
+2015,Vulnerable,860,21,1160
+2008,Vulnerable,860,21,1161
+2006,Vulnerable,860,21,1162
+1996,Lower Risk/conservation dependent,860,21,1163
+1994,Vulnerable,860,21,1164
+1990,Vulnerable,860,21,1165
+1988,Vulnerable,860,21,1166
+1986,Vulnerable,860,21,1167
+1982,Vulnerable,860,21,1168
+1965,"""Less rare but believed to be threatened-requires watching""",860,21,1169
+2016,Least Concern,861,21,1170
+2008,Least Concern,861,21,1171
+1996,Lower Risk/least concern,861,21,1172
+2018,Least Concern,862,21,1173
+2012,Least Concern,862,21,1174
+2008,Least Concern,862,21,1175
+1996,Data Deficient,862,21,1176
+1994,Insufficiently Known,862,21,1177
+2015,Endangered,863,21,1178
+2011,Endangered,863,21,1179
+2008,Endangered,863,21,1180
+2000,Endangered,863,21,1181
+1996,Lower Risk/least concern,863,21,1182
+2008,Least Concern,864,21,1183
+1996,Lower Risk/least concern,864,21,1184
+1994,Insufficiently Known,864,21,1185
+2015,Least Concern,865,21,1186
+2008,Least Concern,865,21,1187
+1996,Lower Risk/least concern,865,21,1188
+2008,Vulnerable,866,21,1189
+1996,Vulnerable,866,21,1190
+1994,Insufficiently Known,866,21,1191
+2016,Near Threatened,867,21,1192
+2012,Near Threatened,867,21,1193
+2008,Endangered,867,21,1194
+1996,Endangered,867,21,1195
+1994,Vulnerable,867,21,1196
+2017,Critically Endangered,868,21,1197
+2008,Critically Endangered,868,21,1198
+2007,Critically Endangered,868,21,1199
+1996,Critically Endangered,868,21,1200
+1994,Endangered,868,21,1201
+1990,Endangered,868,21,1202
+1988,Vulnerable,868,21,1203
+1986,Vulnerable,868,21,1204
+2016,Vulnerable,869,21,1205
+2008,Data Deficient,869,21,1206
+1996,Lower Risk/least concern,869,21,1207
+1996,Data Deficient,870,21,1208
+1996,Vulnerable,870,21,1209
+1994,Vulnerable,870,21,1210
+1996,Critically Endangered,871,21,1211
+1994,Endangered,871,21,1212
+1990,Endangered,871,21,1213
+1988,Endangered,871,21,1214
+1986,Endangered,871,21,1215
+1982,Endangered,871,21,1216
+2013,Vulnerable,872,21,1217
+2000,Critically Endangered,872,21,1218
+1996,Endangered,872,21,1219
+1994,Endangered,872,21,1220
+1990,Endangered,872,21,1221
+1988,Endangered,872,21,1222
+1986,Endangered,872,21,1223
+1982,Endangered,872,21,1224
+2004,Vulnerable,873,21,1225
+1996,Vulnerable,873,21,1226
+1994,Rare,873,21,1227
+1990,Rare,873,21,1228
+1988,Rare,873,21,1229
+1986,Rare,873,21,1230
+2010,Least Concern,874,21,1231
+1996,Lower Risk/least concern,875,21,1232
+1994,Vulnerable,875,21,1233
+1990,Vulnerable,875,21,1234
+1988,Endangered,875,21,1235
+1986,Endangered,875,21,1236
+1982,Endangered,875,21,1237
+2018,Least Concern,876,22,1238
+2016,Least Concern,876,22,1239
+2012,Near Threatened,876,22,1240
+2009,Least Concern,876,22,1241
+2008,Least Concern,876,22,1242
+2004,Least Concern,876,22,1243
+2000,Lower Risk/least concern,876,22,1244
+1994,Lower Risk/least concern,876,22,1245
+1988,Lower Risk/least concern,876,22,1246
+2018,Least Concern,877,22,1247
+2016,Least Concern,877,22,1248
+2012,Least Concern,877,22,1249
+2010,Least Concern,877,22,1250
+2009,Least Concern,877,22,1251
+2008,Least Concern,877,22,1252
+2004,Least Concern,877,22,1253
+2000,Lower Risk/least concern,877,22,1254
+1994,Lower Risk/least concern,877,22,1255
+1988,Lower Risk/least concern,877,22,1256
+2018,Vulnerable,878,22,1257
+2017,Vulnerable,878,22,1258
+2016,Vulnerable,878,22,1259
+2015,Vulnerable,878,22,1260
+2012,Least Concern,878,22,1261
+2009,Least Concern,878,22,1262
+2008,Least Concern,878,22,1263
+2004,Least Concern,878,22,1264
+2000,Lower Risk/least concern,878,22,1265
+1994,Lower Risk/least concern,878,22,1266
+1988,Lower Risk/least concern,878,22,1267
+2016,Least Concern,879,22,1268
+2012,Least Concern,879,22,1269
+2009,Least Concern,879,22,1270
+2008,Least Concern,879,22,1271
+2004,Least Concern,879,22,1272
+2000,Lower Risk/least concern,879,22,1273
+1994,Lower Risk/least concern,879,22,1274
+1988,Lower Risk/least concern,879,22,1275
+2018,Least Concern,880,22,1276
+2016,Least Concern,880,22,1277
+2012,Least Concern,880,22,1278
+2009,Least Concern,880,22,1279
+2008,Least Concern,880,22,1280
+2004,Least Concern,880,22,1281
+2000,Lower Risk/least concern,880,22,1282
+1994,Lower Risk/least concern,880,22,1283
+1988,Lower Risk/least concern,880,22,1284
+2018,Least Concern,881,22,1285
+2016,Least Concern,881,22,1286
+2012,Least Concern,881,22,1287
+2009,Least Concern,881,22,1288
+2008,Least Concern,881,22,1289
+2006,Not Recognized,881,22,1290
+2004,Least Concern,881,22,1291
+2000,Least Concern,881,22,1292
+1994,Least Concern,881,22,1293
+1988,Least Concern,881,22,1294
+2018,Near Threatened,882,22,1295
+2016,Near Threatened,882,22,1296
+2012,Near Threatened,882,22,1297
+2009,Least Concern,882,22,1298
+2008,Least Concern,882,22,1299
+2004,Least Concern,882,22,1300
+2000,Lower Risk/least concern,882,22,1301
+1994,Lower Risk/least concern,882,22,1302
+1988,Lower Risk/least concern,882,22,1303
+2018,Least Concern,883,22,1304
+2016,Least Concern,883,22,1305
+2015,Least Concern,883,22,1306
+2014,Least Concern,883,22,1307
+2018,Endangered,884,22,1308
+2016,Endangered,884,22,1309
+2012,Endangered,884,22,1310
+2010,Endangered,884,22,1311
+2008,Endangered,884,22,1312
+2007,Endangered,884,22,1313
+2005,Endangered,884,22,1314
+2004,Endangered,884,22,1315
+2000,Endangered,884,22,1316
+1996,Vulnerable,884,22,1317
+1994,Vulnerable,884,22,1318
+1988,Near Threatened,884,22,1319
+2018,Least Concern,885,22,1320
+2016,Least Concern,885,22,1321
+2012,Near Threatened,885,22,1322
+2010,Near Threatened,885,22,1323
+2008,Near Threatened,885,22,1324
+2004,Near Threatened,885,22,1325
+2000,Lower Risk/near threatened,885,22,1326
+1994,Lower Risk/least concern,885,22,1327
+1988,Lower Risk/least concern,885,22,1328
+2018,Vulnerable,886,22,1329
+2017,Vulnerable,886,22,1330
+2016,Vulnerable,886,22,1331
+2013,Vulnerable,886,22,1332
+2012,Vulnerable,886,22,1333
+2010,Vulnerable,886,22,1334
+2008,Vulnerable,886,22,1335
+2005,Vulnerable,886,22,1336
+2004,Vulnerable,886,22,1337
+2000,Vulnerable,886,22,1338
+1994,Lower Risk/near threatened,886,22,1339
+1988,Threatened,886,22,1340
+2018,Endangered,887,22,1341
+2016,Endangered,887,22,1342
+2015,Endangered,887,22,1343
+2013,Endangered,887,22,1344
+2012,Endangered,887,22,1345
+2010,Endangered,887,22,1346
+2008,Vulnerable,887,22,1347
+2005,Vulnerable,887,22,1348
+2004,Vulnerable,887,22,1349
+2000,Vulnerable,887,22,1350
+1994,Lower Risk/near threatened,887,22,1351
+1988,Threatened,887,22,1352
+2018,Least Concern,888,22,1353
+2016,Least Concern,888,22,1354
+2012,Least Concern,888,22,1355
+2009,Least Concern,888,22,1356
+2008,Least Concern,888,22,1357
+2004,Least Concern,888,22,1358
+2000,Lower Risk/least concern,888,22,1359
+1994,Lower Risk/least concern,888,22,1360
+1988,Lower Risk/least concern,888,22,1361
+2018,Least Concern,889,22,1362
+2016,Least Concern,889,22,1363
+2012,Least Concern,889,22,1364
+2009,Least Concern,889,22,1365
+2008,Least Concern,889,22,1366
+2004,Least Concern,889,22,1367
+2000,Lower Risk/least concern,889,22,1368
+1994,Lower Risk/least concern,889,22,1369
+1988,Lower Risk/least concern,889,22,1370
+2018,Least Concern,890,22,1371
+2017,Least Concern,890,22,1372
+2016,Least Concern,890,22,1373
+2012,Least Concern,890,22,1374
+2009,Least Concern,890,22,1375
+2008,Least Concern,890,22,1376
+2004,Least Concern,890,22,1377
+2000,Lower Risk/least concern,890,22,1378
+1994,Lower Risk/least concern,890,22,1379
+1988,Lower Risk/least concern,890,22,1380
+2018,Least Concern,891,22,1381
+2016,Least Concern,891,22,1382
+2012,Least Concern,891,22,1383
+2009,Least Concern,891,22,1384
+2008,Least Concern,891,22,1385
+2004,Least Concern,891,22,1386
+2000,Lower Risk/least concern,891,22,1387
+1994,Lower Risk/least concern,891,22,1388
+1988,Lower Risk/least concern,891,22,1389
+2018,Near Threatened,892,22,1390
+2017,Near Threatened,892,22,1391
+2016,Near Threatened,892,22,1392
+2013,Near Threatened,892,22,1393
+2012,Near Threatened,892,22,1394
+2010,Near Threatened,892,22,1395
+2008,Vulnerable,892,22,1396
+2005,Vulnerable,892,22,1397
+2004,Vulnerable,892,22,1398
+2003,Vulnerable,892,22,1399
+2000,Lower Risk/least concern,892,22,1400
+1994,Lower Risk/least concern,892,22,1401
+1988,Lower Risk/least concern,892,22,1402
+2018,Least Concern,893,22,1403
+2016,Least Concern,893,22,1404
+2012,Least Concern,893,22,1405
+2009,Least Concern,893,22,1406
+2008,Least Concern,893,22,1407
+2004,Least Concern,893,22,1408
+2000,Lower Risk/least concern,893,22,1409
+1994,Lower Risk/least concern,893,22,1410
+1988,Lower Risk/least concern,893,22,1411
+2018,Least Concern,894,22,1412
+2017,Least Concern,894,22,1413
+2016,Least Concern,894,22,1414
+2012,Least Concern,894,22,1415
+2009,Least Concern,894,22,1416
+2008,Least Concern,894,22,1417
+2004,Least Concern,894,22,1418
+2000,Lower Risk/least concern,894,22,1419
+1994,Lower Risk/least concern,894,22,1420
+1988,Lower Risk/least concern,894,22,1421
+2016,Least Concern,895,22,1422
+2015,Least Concern,895,22,1423
+2013,Least Concern,895,22,1424
+2012,Least Concern,895,22,1425
+2009,Least Concern,895,22,1426
+2008,Least Concern,895,22,1427
+2004,Least Concern,895,22,1428
+2000,Lower Risk/least concern,895,22,1429
+1994,Lower Risk/least concern,895,22,1430
+1988,Lower Risk/least concern,895,22,1431
+2018,Least Concern,896,22,1432
+2016,Least Concern,896,22,1433
+2012,Least Concern,896,22,1434
+2009,Least Concern,896,22,1435
+2008,Least Concern,896,22,1436
+2004,Least Concern,896,22,1437
+2000,Lower Risk/least concern,896,22,1438
+1994,Lower Risk/least concern,896,22,1439
+1988,Lower Risk/least concern,896,22,1440
+2018,Near Threatened,897,22,1441
+2016,Near Threatened,897,22,1442
+2015,Near Threatened,897,22,1443
+2012,Vulnerable,897,22,1444
+2010,Vulnerable,897,22,1445
+2008,Vulnerable,897,22,1446
+2007,Vulnerable,897,22,1447
+2005,Vulnerable,897,22,1448
+2004,Vulnerable,897,22,1449
+2000,Vulnerable,897,22,1450
+1994,Lower Risk/least concern,897,22,1451
+1988,Lower Risk/least concern,897,22,1452
+2018,Least Concern,898,22,1453
+2016,Least Concern,898,22,1454
+2012,Least Concern,898,22,1455
+2009,Least Concern,898,22,1456
+2008,Near Threatened,898,22,1457
+2007,Near Threatened,898,22,1458
+2005,Vulnerable,898,22,1459
+2004,Vulnerable,898,22,1460
+2000,Vulnerable,898,22,1461
+1994,Lower Risk/least concern,898,22,1462
+1988,Lower Risk/least concern,898,22,1463
+2018,Vulnerable,899,22,1464
+2016,Vulnerable,899,22,1465
+2012,Vulnerable,899,22,1466
+2010,Vulnerable,899,22,1467
+2008,Vulnerable,899,22,1468
+2004,Not Recognized,899,22,1469
+2000,Not Recognized,899,22,1470
+1994,Not Recognized,899,22,1471
+1988,Not Recognized,899,22,1472
+2003,Endangered,900,14,1473
+2000,Vulnerable,900,14,1474
+2009,Vulnerable,901,14,1475
+2000,Vulnerable,901,14,1476
+1996,Vulnerable,901,14,1477
+1994,Insufficiently Known,901,14,1478
+1990,Insufficiently Known,901,14,1479
+2009,Near Threatened,902,14,1480
+2000,Lower Risk/near threatened,902,14,1481
+2018,Least Concern,903,14,1482
+2003,Least Concern,903,14,1483
+2006,Near Threatened,904,14,1484
+2016,Least Concern,905,14,1485
+2003,Near Threatened,905,14,1486
+2018,Least Concern,906,14,1487
+2004,Least Concern,906,14,1488
+2007,Endangered,907,14,1489
+2000,Data Deficient,907,14,1490
+2009,Vulnerable,908,14,1491
+2000,Vulnerable,908,14,1492
+1996,Vulnerable,908,14,1493
+1994,Insufficiently Known,908,14,1494
+1990,Insufficiently Known,908,14,1495
+2006,Near Threatened,909,14,1496
+2019,Endangered,910,14,1497
+2006,Vulnerable,910,14,1498
+2016,Least Concern,911,14,1499
+2003,Least Concern,911,14,1500
+2000,Lower Risk/near threatened,911,14,1501
+2009,Data Deficient,912,14,1502
+2019,Least Concern,913,14,1503
+2015,Least Concern,913,14,1504
+2005,Data Deficient,913,14,1505
+2000,Data Deficient,913,14,1506
+2015,Vulnerable,914,14,1507
+2006,Vulnerable,914,14,1508
+2000,Lower Risk/near threatened,914,14,1509
+2016,Near Threatened,915,14,1510
+2005,Near Threatened,915,14,1511
+2000,Lower Risk/near threatened,915,14,1512
+2009,Vulnerable,916,14,1513
+2006,Vulnerable,917,14,1514
+2000,Lower Risk/near threatened,917,14,1515
+1996,Vulnerable,917,14,1516
+2016,Vulnerable,918,14,1517
+2005,Vulnerable,918,14,1518
+2000,Vulnerable,918,14,1519
+2009,Endangered,919,14,1520
+2000,Lower Risk/near threatened,919,14,1521
+2019,Endangered,920,14,1522
+2009,Vulnerable,920,14,1523
+2000,Lower Risk/near threatened,920,14,1524
+2016,Near Threatened,921,14,1525
+2006,Near Threatened,921,14,1526
+2009,Vulnerable,922,14,1527
+2000,Lower Risk/near threatened,922,14,1528
+2009,Near Threatened,923,14,1529
+2000,Lower Risk/near threatened,923,14,1530
+2016,Vulnerable,924,14,1531
+2015,Least Concern,925,14,1532
+2003,Near Threatened,925,14,1533
+2019,Near Threatened,926,14,1534
+2009,Near Threatened,926,14,1535
+2000,Lower Risk/near threatened,926,14,1536
+2016,Endangered,927,14,1537
+2003,Vulnerable,927,14,1538
+2011,Least Concern,928,15,1539
+2015,Least Concern,929,15,1540
+2014,Least Concern,930,17,1541
+2014,Least Concern,931,17,1542
+2018,Least Concern,932,17,1543
+2014,Data Deficient,933,17,1544
+2018,Least Concern,934,17,1545
+2012,Data Deficient,935,17,1546
+1996,Vulnerable,936,18,1547
+1994,Vulnerable,936,18,1548
+1990,Vulnerable,936,18,1549
+1988,Vulnerable,936,18,1550
+1986,Vulnerable,936,18,1551
+1983,Vulnerable,936,18,1552
+2008,Vulnerable,937,20,1553
+2014,Near Threatened,938,20,1554
+2008,Near Threatened,938,20,1555
+2011,Endangered,939,3,1556
+1996,Data Deficient,939,3,1557
+1996,Vulnerable,940,23,1558
+1996,Lower Risk/least concern,941,23,1559
+2010,Critically Endangered,942,23,1560
+1996,Endangered,942,23,1561
+2011,Vulnerable,943,23,1562
+2010,Data Deficient,944,23,1563
+2010,Data Deficient,945,3,1564
+2000,Critically Endangered,946,23,1565
+1996,Endangered,946,23,1566
+1994,Vulnerable,946,23,1567
+1990,Vulnerable,946,23,1568
+1988,Insufficiently Known,946,23,1569
+2011,Least Concern,947,23,1570
+2010,Least Concern,947,23,1571
+2015,Least Concern,948,23,1572
+2015,Least Concern,949,23,1573
+2015,Data Deficient,950,23,1574
+2017,Least Concern,951,12,1575
+2006,Near Threatened,951,12,1576
+1996,Data Deficient,951,12,1577
+2010,Least Concern,952,3,1578
+2015,Vulnerable,953,5,1579
+2015,Least Concern,954,23,1580
+2015,Vulnerable,955,23,1581
+2018,Least Concern,956,3,1582
+2010,Least Concern,957,23,1583
+2011,Least Concern,958,23,1584
+2014,Least Concern,959,9,1585
+2011,Least Concern,960,3,1586
+2015,Least Concern,961,13,1587
+2013,Critically Endangered,962,14,1588
+2006,Critically Endangered,962,14,1589
+2000,Endangered,962,14,1590
+1996,Endangered,962,14,1591
+2015,Least Concern,963,14,1592
+2006,Least Concern,963,14,1593
+2018,Least Concern,964,10,1594
+2015,Least Concern,965,23,1595
+2010,Least Concern,966,11,1596
+2011,Least Concern,967,23,1597
+1996,Data Deficient,967,23,1598
+2015,Least Concern,968,23,1599
+2015,Least Concern,969,3,1600
+2011,Least Concern,970,3,1601
+2010,Data Deficient,971,13,1602
+2011,Near Threatened,972,3,1603
+1996,Lower Risk/least concern,972,3,1604

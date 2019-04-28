@@ -1,0 +1,134 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.6.3/flexslider.min.css";
+
+body { font-family: avenir, sans-serif; }
+
+.flex-caption { 
+  background: white; 
+  color: black;
+  position: absolute;
+  bottom:0px;
+  
+}
+
+
+.carousel-item {
+  height: 100vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.flexslider .slides img {
+  height:100vh;
+}
+
+.flex-direction-nav a{
+  width: 50px;
+  height:auto;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light{
+  
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+    background-color: #064273 !important;
+
+
+}
+.nav-item.nav-link{
+  color:white !important;
+}
+.nav-item.nav-liink:hover{
+  color:#DCDCDC !important;
+}
+.navbar-brand{
+  color:white !important;
+  text-shadow: 1px 1px 1px #1da2d8;
+}
+
+.homeText{
+  font-size: 24px;
+}
+
+.founders li{
+  list-style: none;
+  font-size: large;
+}
+.footer{
+background:#064273;
+padding:20px;
+text-align: center;
+}
+.footer p{
+  color:white;
+  margin-bottom:0px;
+
+}
+.row{
+  margin:10px 0px;
+}
+
+.navbar-light.navbar-toggler-icon{
+  border:solid 1px white;
+}
+
+/*.flex-next::before{
+  color:rgba(255, 255, 255 , .8) !important;
+}
+.flex-direction-nav a, .flex-direction-nav a:before{
+color:white !important;
+}*/
+.flex-next{
+  display: none !important;
+}
+.flex-direction-nav{
+  display:none !important;
+}
+
+.mbTitle{
+    border: solid 2px white;
+    padding: 35px;
+    font-size: 55px;
+    display: inline;
+    text-shadow: 2px 2px 2px #1da2d8;
+    outline: solid 2px #1da2d8;
+}
+.mbTitleWrap{
+    color: white;
+    position: absolute;
+    top: 30%;
+    /* bottom: 0px; */
+    right: 0px;
+    left: 0;
+    text-align: center;
+}
+.mainLogo{
+  max-width:250px;
+}
+
+.schemaImg{
+    width: 100%;
+    margin: 20px 0px;
+}
+
+#backToTop{
+    width: 60px;
+    background: white;
+    border:solid 1px black;
+    border-radius: 2px;
+    position: fixed;
+    display: block;
+    position: fixed;
+    bottom: 10px;
+    right:-100px;
+
+}
+#backToTop img{
+  width: 100%;
+}
+
+html {
+  scroll-behavior: smooth;
+}

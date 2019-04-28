@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>MarineBuddy</title>
+  <link rel="icon" href="/static/img/mb_icon1@4x.png" style="width:50px" type="image/x-icon"/>
+  <!-- Leaflet CSS & JS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+  integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+  crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+  integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+  crossorigin=""></script>
+  
+  <!-- Bootstrap -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+   <script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+  <!--d3 CDN-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.1/d3.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+  <!-- Our CSS -->
+  <link rel="stylesheet" type="text/css" href="/static/css/indexStyle.css">
+
+  <!-- JSON file with countries -->  
+  <script type="text/javascript" src="/static/js/countries.json"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.6.3/jquery.flexslider-min.js"></script>
+
+</head>
+
+<body>
+
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="/">Marine Buddy</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
+        <!-- <a class="nav-item nav-link active" href="/">Home <span class="sr-only">(current)</span></a> -->
+        <a class="nav-item nav-link" href="/countries">Country Search</a>
+        <a class="nav-item nav-link" href="/marine-life">Marine Life Search</a>
+        <a class="nav-item nav-link" href="/about">How Do We Do It?</a>
+      </div>
+    </div>
+  </nav>
+    <div id="topOfPage"></div>
+  
+
+   
+
+
+  <div class="flexslider">
+    <ul class="slides">
+      <li>
+        <img src="/static/img/slider-images/jacob-waldrop-1116453-unsplash-min.jpg" />
+      </li>
+      <li>
+        <img src="/static/img/slider-images/david-clode-507068-unsplash-min.jpg" />
+      </li>
+      <li>
+        <!-- <p class="flex-caption">Text Over Slide 3</p> -->
+        <img src="/static/img/slider-images/jeremy-bishop-98694-unsplash-min.jpg" />
+      </li>
+      <li>
+        <!-- <p class="flex-caption">Text Over Slide 4</p> -->
+        <img src="/static/img/slider-images/viktor-jakovlev-139845-unsplash-min.jpg" />
+      </li>
+    </ul>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+          <p class="homeText">Are you a scuba diver who wants to explore species outside of your local water-scene? </br></br> Do you seek to travel to other sea beds but don’t know what marine life you’ll be encountering? </br></br> Are you forced to travel to a landmass away from home and are desperate to tour new underwater vistas and its inhabitants? </br> </br><b>Let Marine Buddy be your guide!</b></br></br></p>
+
+          <p class="homeText">Marine Buddy is here to help you find your next diving adventure in a marine-conscious way. You can use our Country Search to surf through different species and review a graphical representation of their status, or deep-dive into each species directly on our Marine Life Search page, which links to their IUCN Red List profile.</p>
+
+          <p class="homeText">To learn more about our methodology, check out the How Do We Do It page!</p>
+      </div>
+    </div>
+
+
+    
+    </div>
+    <div class="footer">
+      <p>Marine Buddy 2019</p>
+    </div>
+  <!-- API key -->
+  <script type="text/javascript" src="/static/js/config.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.9.1/d3-tip.js"></script>
+
+  <!-- Our JS -->
+  <!-- <script type="text/javascript" src="/static/js/logic_home.js"></script> -->
+  <script type="text/javascript" src="/static/js/logic_home.js"></script>
+  <!-- <script type="text/javascript" src="/static/js/logic_marinelife.js"></script> -->
+  <!-- <script type="text/javascript" src="/static/js/logic_about.js"></script> -->
+</body>
+</html>

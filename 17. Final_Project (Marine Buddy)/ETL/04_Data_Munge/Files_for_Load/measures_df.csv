@@ -1,0 +1,1160 @@
+species_id,category_id,measures,measure_id
+122,4,Species management,1
+122,4,Site/area management,2
+122,4,Site/area protection,3
+122,4,Harvest management,4
+123,4,Species management,5
+123,4,Site/area management,6
+123,4,Site/area protection,7
+123,4,Harvest management,8
+125,4,Site/area protection,9
+125,4,Harvest management,10
+125,4,National level,11
+125,4,Sub-national level,12
+125,4,Trade management,13
+125,4,Compliance and enforcement,14
+125,4,Species management,15
+125,4,Site/area management,16
+126,4,Site/area management,17
+126,4,Site/area protection,18
+127,4,Species management,19
+127,4,Site/area protection,20
+127,4,Harvest management,21
+129,4,Species management,22
+129,4,Site/area protection,23
+129,4,Harvest management,24
+130,4,Site/area protection,25
+130,4,Harvest management,26
+130,4,Trade management,27
+130,4,Species management,28
+130,4,Site/area management,29
+131,4,Species management,30
+131,4,Harvest management,31
+132,4,Species management,32
+132,4,Site/area management,33
+132,4,Site/area protection,34
+132,4,Harvest management,35
+135,4,Species management,36
+135,4,Harvest management,37
+136,4,Species management,38
+136,4,Harvest management,39
+137,4,Site/area management,40
+137,4,Site/area protection,41
+142,4,Site/area protection,42
+142,4,Harvest management,43
+142,4,Trade management,44
+142,4,Species management,45
+142,4,Site/area management,46
+143,4,Species management,47
+143,4,Site/area protection,48
+143,4,Harvest management,49
+144,4,Species management,50
+144,4,Site/area management,51
+144,4,Site/area protection,52
+144,4,Harvest management,53
+149,4,Site/area protection,54
+149,4,Harvest management,55
+149,4,National level,56
+149,4,International level,57
+149,4,Trade management,58
+149,4,Sub-national level,59
+149,4,Legislation,60
+149,4,Species management,61
+149,4,Site/area management,62
+150,4,Species management,63
+150,4,Site/area management,64
+150,4,Site/area protection,65
+150,4,Harvest management,66
+185,5,Species management,67
+185,5,Harvest management,68
+189,5,Species management,69
+189,5,Trade management,70
+189,5,Harvest management,71
+189,5,Resource & habitat protection,72
+190,5,Harvest management,73
+190,5,National level,74
+190,5,Sub-national level,75
+190,5,Compliance and enforcement,76
+190,5,Legislation,77
+190,5,Species management,78
+192,5,Species management,79
+192,5,Harvest management,80
+197,5,Species management,81
+197,5,Harvest management,82
+198,5,Species management,83
+198,5,Harvest management,84
+199,5,Species management,85
+199,5,Harvest management,86
+200,5,Species management,87
+200,5,Harvest management,88
+201,5,Sub-national level,89
+201,5,Compliance and enforcement,90
+201,5,Legislation,91
+203,5,Harvest management,92
+203,5,Sub-national level,93
+203,5,Compliance and enforcement,94
+203,5,Legislation,95
+203,5,Species management,96
+205,5,Species management,97
+205,5,Harvest management,98
+206,5,Harvest management,99
+206,5,National level,100
+206,5,Sub-national level,101
+206,5,Compliance and enforcement,102
+206,5,Legislation,103
+206,5,Species management,104
+208,5,Harvest management,105
+208,5,National level,106
+208,5,Sub-national level,107
+208,5,Compliance and enforcement,108
+208,5,Legislation,109
+208,5,Species management,110
+232,6,Site/area protection,111
+241,6,International level,112
+241,6,Compliance and enforcement,113
+241,6,Resource & habitat protection,114
+242,6,Captive breeding/artificial propagation,115
+242,6,Linked enterprises & livelihood alternatives,116
+242,6,Site/area protection,117
+242,6,Harvest management,118
+242,6,National level,119
+242,6,Sub-national level,120
+242,6,Trade management,121
+242,6,Ex-situ conservation,122
+242,6,Legislation,123
+242,6,Species management,124
+242,6,Site/area management,125
+242,6,Genome resource bank,126
+242,6,Resource & habitat protection,127
+244,6,Awareness & communications,128
+244,6,Site/area protection,129
+244,6,National level,130
+244,6,International level,131
+244,6,Sub-national level,132
+244,6,Compliance and enforcement,133
+244,6,Legislation,134
+244,6,Site/area management,135
+246,6,Species management,136
+246,6,Trade management,137
+246,6,Harvest management,138
+268,6,Species management,139
+268,6,Trade management,140
+268,6,Harvest management,141
+273,6,Species management,142
+273,6,Trade management,143
+273,6,Harvest management,144
+287,6,Site/area management,145
+288,6,Site/area management,146
+292,6,Species management,147
+292,6,Trade management,148
+292,6,Harvest management,149
+293,6,National level,150
+293,6,Compliance and enforcement,151
+304,6,Species management,152
+304,6,Harvest management,153
+305,6,Species management,154
+305,6,Trade management,155
+305,6,Harvest management,156
+311,6,Species management,157
+311,6,Trade management,158
+311,6,Harvest management,159
+344,7,Awareness & communications,160
+344,7,Captive breeding/artificial propagation,161
+344,7,Training,162
+344,7,Linked enterprises & livelihood alternatives,163
+344,7,Site/area protection,164
+344,7,Species re-introduction,165
+344,7,National level,166
+344,7,International level,167
+344,7,Trade management,168
+344,7,Species recovery,169
+344,7,Ex-situ conservation,170
+344,7,Sub-national level,171
+344,7,Reintroduction,172
+344,7,Legislation,173
+344,7,Species management,174
+344,7,Site/area management,175
+344,7,Resource & habitat protection,176
+451,10,Species management,177
+451,10,Harvest management,178
+553,11,Species management,179
+553,11,Harvest management,180
+557,11,National level,181
+557,11,International level,182
+557,11,Compliance and enforcement,183
+557,11,Legislation,184
+564,12,Awareness & communications,185
+564,12,Training,186
+564,12,Site/area protection,187
+564,12,Harvest management,188
+564,12,Trade management,189
+564,12,Habitat & natural process restoration,190
+564,12,Policies and regulations,191
+564,12,Species management,192
+564,12,Site/area management,193
+564,12,Resource & habitat protection,194
+565,12,Awareness & communications,195
+565,12,Site/area protection,196
+565,12,Harvest management,197
+565,12,Private sector standards & codes,198
+565,12,International level,199
+565,12,Trade management,200
+565,12,Compliance and enforcement,201
+565,12,National level,202
+565,12,Sub-national level,203
+565,12,Habitat & natural process restoration,204
+565,12,Policies and regulations,205
+565,12,Species management,206
+565,12,Site/area management,207
+565,12,Resource & habitat protection,208
+566,12,Awareness & communications,209
+566,12,Training,210
+566,12,Harvest management,211
+566,12,Trade management,212
+566,12,Species management,213
+567,12,Awareness & communications,214
+567,12,Harvest management,215
+567,12,National level,216
+567,12,Sub-national level,217
+567,12,Trade management,218
+567,12,Legislation,219
+567,12,Species management,220
+568,12,National level,221
+568,12,International level,222
+568,12,Sub-national level,223
+568,12,Private sector standards & codes,224
+568,12,Compliance and enforcement,225
+568,12,Policies and regulations,226
+568,12,Legislation,227
+569,12,National level,228
+569,12,International level,229
+569,12,Sub-national level,230
+569,12,Private sector standards & codes,231
+569,12,Compliance and enforcement,232
+569,12,Policies and regulations,233
+569,12,Legislation,234
+574,12,National level,235
+574,12,International level,236
+574,12,Sub-national level,237
+574,12,Private sector standards & codes,238
+574,12,Compliance and enforcement,239
+574,12,Policies and regulations,240
+574,12,Legislation,241
+576,12,National level,242
+576,12,International level,243
+576,12,Sub-national level,244
+576,12,Private sector standards & codes,245
+576,12,Compliance and enforcement,246
+576,12,Policies and regulations,247
+576,12,Legislation,248
+579,12,National level,249
+579,12,International level,250
+579,12,Sub-national level,251
+579,12,Compliance and enforcement,252
+579,12,Policies and regulations,253
+579,12,Legislation,254
+580,12,National level,255
+580,12,International level,256
+580,12,Sub-national level,257
+580,12,Private sector standards & codes,258
+580,12,Compliance and enforcement,259
+580,12,Policies and regulations,260
+580,12,Legislation,261
+583,12,Harvest management,262
+583,12,National level,263
+583,12,International level,264
+583,12,Compliance and enforcement,265
+583,12,Legislation,266
+583,12,Species management,267
+620,14,Species management,268
+620,14,Site/area management,269
+620,14,Harvest management,270
+623,14,Awareness & communications,271
+623,14,Harvest management,272
+623,14,National level,273
+623,14,Compliance and enforcement,274
+623,14,Policies and regulations,275
+623,14,Legislation,276
+623,14,Species management,277
+623,14,Resource & habitat protection,278
+632,15,Species management,279
+632,15,Species recovery,280
+632,15,Harvest management,281
+646,17,Species management,282
+646,17,Harvest management,283
+683,20,Captive breeding/artificial propagation,284
+683,20,Site/area protection,285
+683,20,Species recovery,286
+683,20,Ex-situ conservation,287
+683,20,Habitat & natural process restoration,288
+683,20,Site/area management,289
+683,20,Genome resource bank,290
+684,20,Captive breeding/artificial propagation,291
+684,20,Site/area protection,292
+684,20,Species recovery,293
+684,20,Ex-situ conservation,294
+684,20,Habitat & natural process restoration,295
+684,20,Site/area management,296
+684,20,Genome resource bank,297
+685,20,Captive breeding/artificial propagation,298
+685,20,Site/area protection,299
+685,20,Species recovery,300
+685,20,Ex-situ conservation,301
+685,20,Habitat & natural process restoration,302
+685,20,Site/area management,303
+685,20,Genome resource bank,304
+686,20,Captive breeding/artificial propagation,305
+686,20,Site/area protection,306
+686,20,Species recovery,307
+686,20,Ex-situ conservation,308
+686,20,Habitat & natural process restoration,309
+686,20,Site/area management,310
+686,20,Genome resource bank,311
+687,20,Captive breeding/artificial propagation,312
+687,20,Site/area protection,313
+687,20,Species recovery,314
+687,20,Ex-situ conservation,315
+687,20,Habitat & natural process restoration,316
+687,20,Site/area management,317
+687,20,Genome resource bank,318
+688,20,Captive breeding/artificial propagation,319
+688,20,Site/area protection,320
+688,20,Species recovery,321
+688,20,Ex-situ conservation,322
+688,20,Habitat & natural process restoration,323
+688,20,Site/area management,324
+688,20,Genome resource bank,325
+689,20,Captive breeding/artificial propagation,326
+689,20,Site/area protection,327
+689,20,Species recovery,328
+689,20,Ex-situ conservation,329
+689,20,Habitat & natural process restoration,330
+689,20,Site/area management,331
+689,20,Genome resource bank,332
+690,20,Captive breeding/artificial propagation,333
+690,20,Site/area protection,334
+690,20,Species recovery,335
+690,20,Ex-situ conservation,336
+690,20,Habitat & natural process restoration,337
+690,20,Site/area management,338
+690,20,Genome resource bank,339
+691,20,Captive breeding/artificial propagation,340
+691,20,Site/area protection,341
+691,20,Species recovery,342
+691,20,Ex-situ conservation,343
+691,20,Habitat & natural process restoration,344
+691,20,Site/area management,345
+691,20,Genome resource bank,346
+692,20,Captive breeding/artificial propagation,347
+692,20,Site/area protection,348
+692,20,Species recovery,349
+692,20,Ex-situ conservation,350
+692,20,Habitat & natural process restoration,351
+692,20,Site/area management,352
+692,20,Genome resource bank,353
+693,20,Captive breeding/artificial propagation,354
+693,20,Site/area protection,355
+693,20,Species recovery,356
+693,20,Ex-situ conservation,357
+693,20,Habitat & natural process restoration,358
+693,20,Site/area management,359
+693,20,Genome resource bank,360
+694,20,Captive breeding/artificial propagation,361
+694,20,Site/area protection,362
+694,20,Species recovery,363
+694,20,Ex-situ conservation,364
+694,20,Habitat & natural process restoration,365
+694,20,Site/area management,366
+694,20,Genome resource bank,367
+695,20,Captive breeding/artificial propagation,368
+695,20,Site/area protection,369
+695,20,Species recovery,370
+695,20,Ex-situ conservation,371
+695,20,Habitat & natural process restoration,372
+695,20,Site/area management,373
+695,20,Genome resource bank,374
+696,20,Captive breeding/artificial propagation,375
+696,20,Site/area protection,376
+696,20,Species recovery,377
+696,20,Ex-situ conservation,378
+696,20,Habitat & natural process restoration,379
+696,20,Site/area management,380
+696,20,Genome resource bank,381
+697,20,Captive breeding/artificial propagation,382
+697,20,Site/area protection,383
+697,20,Species recovery,384
+697,20,Ex-situ conservation,385
+697,20,Habitat & natural process restoration,386
+697,20,Site/area management,387
+697,20,Genome resource bank,388
+698,20,Captive breeding/artificial propagation,389
+698,20,Site/area protection,390
+698,20,Species recovery,391
+698,20,Ex-situ conservation,392
+698,20,Habitat & natural process restoration,393
+698,20,Site/area management,394
+698,20,Genome resource bank,395
+699,20,Captive breeding/artificial propagation,396
+699,20,Site/area protection,397
+699,20,Species recovery,398
+699,20,Ex-situ conservation,399
+699,20,Habitat & natural process restoration,400
+699,20,Site/area management,401
+699,20,Genome resource bank,402
+700,20,Captive breeding/artificial propagation,403
+700,20,Site/area protection,404
+700,20,Species recovery,405
+700,20,Ex-situ conservation,406
+700,20,Habitat & natural process restoration,407
+700,20,Site/area management,408
+700,20,Genome resource bank,409
+701,20,Captive breeding/artificial propagation,410
+701,20,Site/area protection,411
+701,20,Species recovery,412
+701,20,Ex-situ conservation,413
+701,20,Habitat & natural process restoration,414
+701,20,Site/area management,415
+701,20,Genome resource bank,416
+702,20,Captive breeding/artificial propagation,417
+702,20,Site/area protection,418
+702,20,Species recovery,419
+702,20,Ex-situ conservation,420
+702,20,Habitat & natural process restoration,421
+702,20,Site/area management,422
+702,20,Genome resource bank,423
+703,20,Captive breeding/artificial propagation,424
+703,20,Site/area protection,425
+703,20,Species recovery,426
+703,20,Ex-situ conservation,427
+703,20,Habitat & natural process restoration,428
+703,20,Site/area management,429
+703,20,Genome resource bank,430
+704,20,Captive breeding/artificial propagation,431
+704,20,Site/area protection,432
+704,20,Species recovery,433
+704,20,Ex-situ conservation,434
+704,20,Habitat & natural process restoration,435
+704,20,Site/area management,436
+704,20,Genome resource bank,437
+705,20,Captive breeding/artificial propagation,438
+705,20,Site/area protection,439
+705,20,Species recovery,440
+705,20,Ex-situ conservation,441
+705,20,Habitat & natural process restoration,442
+705,20,Site/area management,443
+705,20,Genome resource bank,444
+706,20,Captive breeding/artificial propagation,445
+706,20,Site/area protection,446
+706,20,Species recovery,447
+706,20,Ex-situ conservation,448
+706,20,Habitat & natural process restoration,449
+706,20,Site/area management,450
+706,20,Genome resource bank,451
+707,20,Captive breeding/artificial propagation,452
+707,20,Site/area protection,453
+707,20,Species recovery,454
+707,20,Ex-situ conservation,455
+707,20,Habitat & natural process restoration,456
+707,20,Site/area management,457
+707,20,Genome resource bank,458
+708,20,Captive breeding/artificial propagation,459
+708,20,Site/area protection,460
+708,20,Species recovery,461
+708,20,Ex-situ conservation,462
+708,20,Habitat & natural process restoration,463
+708,20,Site/area management,464
+708,20,Genome resource bank,465
+709,20,Captive breeding/artificial propagation,466
+709,20,Site/area protection,467
+709,20,Species recovery,468
+709,20,Ex-situ conservation,469
+709,20,Habitat & natural process restoration,470
+709,20,Site/area management,471
+709,20,Genome resource bank,472
+710,20,Captive breeding/artificial propagation,473
+710,20,Site/area protection,474
+710,20,Species recovery,475
+710,20,Ex-situ conservation,476
+710,20,Habitat & natural process restoration,477
+710,20,Site/area management,478
+710,20,Genome resource bank,479
+711,20,Captive breeding/artificial propagation,480
+711,20,Site/area protection,481
+711,20,Species recovery,482
+711,20,Ex-situ conservation,483
+711,20,Habitat & natural process restoration,484
+711,20,Site/area management,485
+711,20,Genome resource bank,486
+712,20,Captive breeding/artificial propagation,487
+712,20,Site/area protection,488
+712,20,Species recovery,489
+712,20,Ex-situ conservation,490
+712,20,Habitat & natural process restoration,491
+712,20,Site/area management,492
+712,20,Genome resource bank,493
+713,20,Captive breeding/artificial propagation,494
+713,20,Site/area protection,495
+713,20,Species recovery,496
+713,20,Ex-situ conservation,497
+713,20,Habitat & natural process restoration,498
+713,20,Site/area management,499
+713,20,Genome resource bank,500
+714,20,Captive breeding/artificial propagation,501
+714,20,Site/area protection,502
+714,20,Species recovery,503
+714,20,Ex-situ conservation,504
+714,20,Habitat & natural process restoration,505
+714,20,Site/area management,506
+714,20,Genome resource bank,507
+715,20,Captive breeding/artificial propagation,508
+715,20,Site/area protection,509
+715,20,Species recovery,510
+715,20,Ex-situ conservation,511
+715,20,Habitat & natural process restoration,512
+715,20,Site/area management,513
+715,20,Genome resource bank,514
+716,20,Captive breeding/artificial propagation,515
+716,20,Site/area protection,516
+716,20,Species recovery,517
+716,20,Ex-situ conservation,518
+716,20,Habitat & natural process restoration,519
+716,20,Site/area management,520
+716,20,Genome resource bank,521
+717,20,Captive breeding/artificial propagation,522
+717,20,Site/area protection,523
+717,20,Species recovery,524
+717,20,Ex-situ conservation,525
+717,20,Habitat & natural process restoration,526
+717,20,Site/area management,527
+717,20,Genome resource bank,528
+718,20,Captive breeding/artificial propagation,529
+718,20,Site/area protection,530
+718,20,Species recovery,531
+718,20,Ex-situ conservation,532
+718,20,Habitat & natural process restoration,533
+718,20,Site/area management,534
+718,20,Genome resource bank,535
+719,20,Captive breeding/artificial propagation,536
+719,20,Site/area protection,537
+719,20,Species recovery,538
+719,20,Ex-situ conservation,539
+719,20,Habitat & natural process restoration,540
+719,20,Site/area management,541
+719,20,Genome resource bank,542
+720,20,Captive breeding/artificial propagation,543
+720,20,Site/area protection,544
+720,20,Species recovery,545
+720,20,Ex-situ conservation,546
+720,20,Habitat & natural process restoration,547
+720,20,Site/area management,548
+720,20,Genome resource bank,549
+721,20,Captive breeding/artificial propagation,550
+721,20,Site/area protection,551
+721,20,Species recovery,552
+721,20,Ex-situ conservation,553
+721,20,Habitat & natural process restoration,554
+721,20,Site/area management,555
+721,20,Genome resource bank,556
+722,20,Captive breeding/artificial propagation,557
+722,20,Site/area protection,558
+722,20,Species recovery,559
+722,20,Ex-situ conservation,560
+722,20,Habitat & natural process restoration,561
+722,20,Site/area management,562
+722,20,Genome resource bank,563
+723,20,Captive breeding/artificial propagation,564
+723,20,Site/area protection,565
+723,20,Species recovery,566
+723,20,Ex-situ conservation,567
+723,20,Habitat & natural process restoration,568
+723,20,Site/area management,569
+723,20,Genome resource bank,570
+724,20,Captive breeding/artificial propagation,571
+724,20,Site/area protection,572
+724,20,Species recovery,573
+724,20,Ex-situ conservation,574
+724,20,Habitat & natural process restoration,575
+724,20,Site/area management,576
+724,20,Genome resource bank,577
+725,20,Captive breeding/artificial propagation,578
+725,20,Site/area protection,579
+725,20,Species recovery,580
+725,20,Ex-situ conservation,581
+725,20,Habitat & natural process restoration,582
+725,20,Site/area management,583
+725,20,Genome resource bank,584
+726,20,Captive breeding/artificial propagation,585
+726,20,Site/area protection,586
+726,20,Species recovery,587
+726,20,Ex-situ conservation,588
+726,20,Habitat & natural process restoration,589
+726,20,Site/area management,590
+726,20,Genome resource bank,591
+727,20,Captive breeding/artificial propagation,592
+727,20,Site/area protection,593
+727,20,Species recovery,594
+727,20,Ex-situ conservation,595
+727,20,Habitat & natural process restoration,596
+727,20,Site/area management,597
+727,20,Genome resource bank,598
+728,20,Captive breeding/artificial propagation,599
+728,20,Site/area protection,600
+728,20,Species recovery,601
+728,20,Ex-situ conservation,602
+728,20,Habitat & natural process restoration,603
+728,20,Site/area management,604
+728,20,Genome resource bank,605
+729,20,Captive breeding/artificial propagation,606
+729,20,Site/area protection,607
+729,20,Species recovery,608
+729,20,Ex-situ conservation,609
+729,20,Habitat & natural process restoration,610
+729,20,Site/area management,611
+729,20,Genome resource bank,612
+730,20,Captive breeding/artificial propagation,613
+730,20,Site/area protection,614
+730,20,Species recovery,615
+730,20,Ex-situ conservation,616
+730,20,Habitat & natural process restoration,617
+730,20,Site/area management,618
+730,20,Genome resource bank,619
+731,20,Captive breeding/artificial propagation,620
+731,20,Site/area protection,621
+731,20,Species recovery,622
+731,20,Ex-situ conservation,623
+731,20,Habitat & natural process restoration,624
+731,20,Site/area management,625
+731,20,Genome resource bank,626
+732,20,Captive breeding/artificial propagation,627
+732,20,Site/area protection,628
+732,20,Species recovery,629
+732,20,Ex-situ conservation,630
+732,20,Habitat & natural process restoration,631
+732,20,Site/area management,632
+732,20,Genome resource bank,633
+733,20,Captive breeding/artificial propagation,634
+733,20,Site/area protection,635
+733,20,Species recovery,636
+733,20,Ex-situ conservation,637
+733,20,Habitat & natural process restoration,638
+733,20,Site/area management,639
+733,20,Genome resource bank,640
+734,20,Captive breeding/artificial propagation,641
+734,20,Site/area protection,642
+734,20,Species recovery,643
+734,20,Ex-situ conservation,644
+734,20,Habitat & natural process restoration,645
+734,20,Site/area management,646
+734,20,Genome resource bank,647
+735,20,Captive breeding/artificial propagation,648
+735,20,Site/area protection,649
+735,20,Species recovery,650
+735,20,Ex-situ conservation,651
+735,20,Habitat & natural process restoration,652
+735,20,Site/area management,653
+735,20,Genome resource bank,654
+736,20,Captive breeding/artificial propagation,655
+736,20,Site/area protection,656
+736,20,Species recovery,657
+736,20,Ex-situ conservation,658
+736,20,Habitat & natural process restoration,659
+736,20,Site/area management,660
+736,20,Genome resource bank,661
+737,20,Captive breeding/artificial propagation,662
+737,20,Site/area protection,663
+737,20,Species recovery,664
+737,20,Ex-situ conservation,665
+737,20,Habitat & natural process restoration,666
+737,20,Site/area management,667
+737,20,Genome resource bank,668
+738,20,Captive breeding/artificial propagation,669
+738,20,Site/area protection,670
+738,20,Species recovery,671
+738,20,Ex-situ conservation,672
+738,20,Habitat & natural process restoration,673
+738,20,Site/area management,674
+738,20,Genome resource bank,675
+740,21,Species management,676
+740,21,National level,677
+740,21,Compliance and enforcement,678
+740,21,Harvest management,679
+806,4,Species management,680
+806,4,Harvest management,681
+807,4,Site/area protection,682
+807,4,Harvest management,683
+807,4,National level,684
+807,4,International level,685
+807,4,Trade management,686
+807,4,Species recovery,687
+807,4,Compliance and enforcement,688
+807,4,Policies and regulations,689
+807,4,Legislation,690
+807,4,Species management,691
+807,4,Site/area management,692
+814,11,International level,693
+814,11,Compliance and enforcement,694
+814,11,Legislation,695
+815,12,National level,696
+815,12,International level,697
+815,12,Sub-national level,698
+815,12,Compliance and enforcement,699
+815,12,Policies and regulations,700
+815,12,Legislation,701
+817,14,Awareness & communications,702
+817,14,Linked enterprises & livelihood alternatives,703
+817,14,Harvest management,704
+817,14,Trade management,705
+817,14,Species management,706
+817,14,Resource & habitat protection,707
+818,14,Awareness & communications,708
+818,14,Training,709
+818,14,Linked enterprises & livelihood alternatives,710
+818,14,Site/area protection,711
+818,14,National level,712
+818,14,International level,713
+818,14,Sub-national level,714
+818,14,Compliance and enforcement,715
+818,14,Policies and regulations,716
+818,14,Legislation,717
+818,14,Market forces,718
+818,14,Site/area management,719
+818,14,Resource & habitat protection,720
+821,14,Awareness & communications,721
+821,14,Training,722
+821,14,Site/area protection,723
+821,14,Harvest management,724
+821,14,National level,725
+821,14,Compliance and enforcement,726
+821,14,Legislation,727
+821,14,Species management,728
+821,14,Site/area management,729
+821,14,Formal education,730
+821,14,Resource & habitat protection,731
+822,14,Training,732
+822,14,Site/area protection,733
+822,14,Harvest management,734
+822,14,National level,735
+822,14,Species recovery,736
+822,14,Trade management,737
+822,14,Legislation,738
+822,14,Species management,739
+822,14,Formal education,740
+824,15,Awareness & communications,741
+824,15,Substitution,742
+824,15,Site/area protection,743
+824,15,Harvest management,744
+824,15,Sub-national level,745
+824,15,International level,746
+824,15,Trade management,747
+824,15,Compliance and enforcement,748
+824,15,Species management,749
+824,15,Resource & habitat protection,750
+828,20,Captive breeding/artificial propagation,751
+828,20,Site/area protection,752
+828,20,Species recovery,753
+828,20,Ex-situ conservation,754
+828,20,Habitat & natural process restoration,755
+828,20,Site/area management,756
+828,20,Genome resource bank,757
+829,20,Captive breeding/artificial propagation,758
+829,20,Site/area protection,759
+829,20,Species recovery,760
+829,20,Ex-situ conservation,761
+829,20,Habitat & natural process restoration,762
+829,20,Site/area management,763
+829,20,Genome resource bank,764
+830,21,Site/area protection,765
+830,21,Harvest management,766
+830,21,National level,767
+830,21,International level,768
+830,21,Trade management,769
+830,21,Compliance and enforcement,770
+830,21,Sub-national level,771
+830,21,Species management,772
+830,21,Site/area management,773
+831,21,Scale unspecified,774
+831,21,Compliance and enforcement,775
+832,21,Harvest management,776
+832,21,Trade management,777
+832,21,Species recovery,778
+832,21,Resource & habitat protection,779
+832,21,Linked enterprises & livelihood alternatives,780
+832,21,Sub-national level,781
+832,21,Invasive/problematic species control,782
+832,21,Species management,783
+832,21,Non-monetary values,784
+832,21,Awareness & communications,785
+832,21,Site/area protection,786
+832,21,Private sector standards & codes,787
+832,21,Compliance and enforcement,788
+832,21,Habitat & natural process restoration,789
+832,21,Policies and regulations,790
+832,21,Conservation payments,791
+832,21,Limiting population growth,792
+832,21,Site/area management,793
+832,21,Training,794
+832,21,National level,795
+832,21,International level,796
+832,21,Formal education,797
+834,21,Species management,798
+834,21,Harvest management,799
+835,21,Species management,800
+835,21,Harvest management,801
+836,21,Awareness & communications,802
+836,21,Training,803
+836,21,Linked enterprises & livelihood alternatives,804
+836,21,Site/area protection,805
+836,21,Species re-introduction,806
+836,21,Sub-national level,807
+836,21,International level,808
+836,21,Species recovery,809
+836,21,Compliance and enforcement,810
+836,21,National level,811
+836,21,Habitat & natural process restoration,812
+836,21,Legislation,813
+836,21,Reintroduction,814
+836,21,Site/area management,815
+836,21,Formal education,816
+836,21,Resource & habitat protection,817
+840,21,Resource & habitat protection,818
+841,21,Harvest management,819
+841,21,National level,820
+841,21,Compliance and enforcement,821
+841,21,Species management,822
+841,21,Site/area management,823
+843,21,Species management,824
+843,21,Site/area management,825
+843,21,Species recovery,826
+843,21,Harvest management,827
+844,21,Awareness & communications,828
+844,21,Training,829
+844,21,Linked enterprises & livelihood alternatives,830
+844,21,Site/area protection,831
+844,21,National level,832
+844,21,International level,833
+844,21,Compliance and enforcement,834
+844,21,Sub-national level,835
+844,21,Site/area management,836
+844,21,Formal education,837
+845,21,Site/area protection,838
+845,21,Harvest management,839
+845,21,Sub-national level,840
+845,21,Compliance and enforcement,841
+845,21,Trade management,842
+845,21,Species management,843
+846,21,Species management,844
+846,21,Harvest management,845
+847,21,Site/area management,846
+848,21,Site/area management,847
+850,21,Harvest management,848
+850,21,National level,849
+850,21,Compliance and enforcement,850
+850,21,Species management,851
+850,21,Site/area management,852
+852,21,Species management,853
+852,21,Harvest management,854
+853,21,Site/area management,855
+854,21,Site/area management,856
+855,21,Species management,857
+855,21,Harvest management,858
+856,21,Awareness & communications,859
+856,21,Training,860
+856,21,Site/area protection,861
+856,21,Sub-national level,862
+856,21,National level,863
+856,21,Species recovery,864
+856,21,Compliance and enforcement,865
+856,21,Legislation,866
+856,21,Site/area management,867
+856,21,Formal education,868
+856,21,Resource & habitat protection,869
+857,21,Species management,870
+857,21,Harvest management,871
+858,21,Species management,872
+858,21,Site/area management,873
+858,21,Harvest management,874
+859,21,Species management,875
+859,21,Harvest management,876
+860,21,Awareness & communications,877
+860,21,Training,878
+860,21,Site/area protection,879
+860,21,Harvest management,880
+860,21,National level,881
+860,21,International level,882
+860,21,Trade management,883
+860,21,Species recovery,884
+860,21,Sub-national level,885
+860,21,Scale unspecified,886
+860,21,Compliance and enforcement,887
+860,21,Legislation,888
+860,21,Species management,889
+860,21,Site/area management,890
+860,21,Formal education,891
+860,21,Resource & habitat protection,892
+861,21,Site/area protection,893
+861,21,Harvest management,894
+861,21,Species management,895
+861,21,Site/area management,896
+861,21,Resource & habitat protection,897
+862,21,Species management,898
+862,21,Harvest management,899
+863,21,Site/area management,900
+863,21,Habitat & natural process restoration,901
+863,21,Species recovery,902
+864,21,Awareness & communications,903
+864,21,Site/area protection,904
+864,21,National level,905
+864,21,International level,906
+864,21,Compliance and enforcement,907
+865,21,Site/area management,908
+867,21,Awareness & communications,909
+867,21,Site/area protection,910
+867,21,National level,911
+867,21,Species recovery,912
+867,21,Compliance and enforcement,913
+867,21,Policies and regulations,914
+867,21,Legislation,915
+867,21,Site/area management,916
+867,21,Resource & habitat protection,917
+868,21,Awareness & communications,918
+868,21,Training,919
+868,21,Linked enterprises & livelihood alternatives,920
+868,21,Site/area protection,921
+868,21,Harvest management,922
+868,21,National level,923
+868,21,Species recovery,924
+868,21,Compliance and enforcement,925
+868,21,Species management,926
+868,21,Site/area management,927
+868,21,Formal education,928
+868,21,Resource & habitat protection,929
+869,21,Awareness & communications,930
+869,21,Site/area protection,931
+869,21,Harvest management,932
+869,21,National level,933
+869,21,Trade management,934
+869,21,Compliance and enforcement,935
+869,21,Species management,936
+869,21,Site/area management,937
+869,21,Resource & habitat protection,938
+872,21,Awareness & communications,939
+872,21,Site/area protection,940
+872,21,Harvest management,941
+872,21,National level,942
+872,21,International level,943
+872,21,Compliance and enforcement,944
+872,21,Sub-national level,945
+872,21,Species management,946
+872,21,Site/area management,947
+876,22,International level,948
+876,22,Legislation,949
+877,22,Invasive/problematic species control,950
+878,22,Awareness & communications,951
+878,22,Site/area protection,952
+878,22,Compliance and enforcement,953
+878,22,Scale unspecified,954
+878,22,Invasive/problematic species control,955
+878,22,Policies and regulations,956
+878,22,Site/area management,957
+878,22,Resource & habitat protection,958
+882,22,International level,959
+882,22,Legislation,960
+884,22,Awareness & communications,961
+884,22,Training,962
+884,22,Site/area protection,963
+884,22,National level,964
+884,22,International level,965
+884,22,Species recovery,966
+884,22,Compliance and enforcement,967
+884,22,Invasive/problematic species control,968
+884,22,Legislation,969
+884,22,Site/area management,970
+885,22,Site/area protection,971
+886,22,Awareness & communications,972
+886,22,Site/area protection,973
+886,22,Harvest management,974
+886,22,Invasive/problematic species control,975
+886,22,Policies and regulations,976
+886,22,Species management,977
+886,22,Site/area management,978
+887,22,Awareness & communications,979
+887,22,Site/area protection,980
+887,22,Species re-introduction,981
+887,22,National level,982
+887,22,International level,983
+887,22,Species recovery,984
+887,22,Compliance and enforcement,985
+887,22,Invasive/problematic species control,986
+887,22,Legislation,987
+887,22,Reintroduction,988
+887,22,Site/area management,989
+887,22,Resource & habitat protection,990
+892,22,Awareness & communications,991
+892,22,Site/area management,992
+892,22,International level,993
+892,22,Legislation,994
+893,22,Site/area protection,995
+893,22,National level,996
+893,22,International level,997
+893,22,Scale unspecified,998
+893,22,Legislation,999
+893,22,Site/area management,1000
+897,22,Resource & habitat protection,1001
+898,22,Site/area management,1002
+898,22,International level,1003
+898,22,Legislation,1004
+899,22,Training,1005
+899,22,Site/area protection,1006
+899,22,Private sector standards & codes,1007
+899,22,International level,1008
+899,22,Invasive/problematic species control,1009
+899,22,Policies and regulations,1010
+899,22,Legislation,1011
+899,22,Site/area management,1012
+904,14,Awareness & communications,1013
+904,14,Linked enterprises & livelihood alternatives,1014
+904,14,Harvest management,1015
+904,14,National level,1016
+904,14,International level,1017
+904,14,Sub-national level,1018
+904,14,Compliance and enforcement,1019
+904,14,Habitat & natural process restoration,1020
+904,14,Legislation,1021
+904,14,Species management,1022
+904,14,Site/area management,1023
+904,14,Formal education,1024
+904,14,Resource & habitat protection,1025
+905,14,Species management,1026
+905,14,Harvest management,1027
+907,14,Training,1028
+907,14,Harvest management,1029
+907,14,Trade management,1030
+907,14,Species recovery,1031
+907,14,Species management,1032
+907,14,Site/area management,1033
+907,14,Formal education,1034
+908,14,Awareness & communications,1035
+910,14,Site/area protection,1036
+910,14,Harvest management,1037
+910,14,Species recovery,1038
+910,14,Trade management,1039
+910,14,Species management,1040
+911,14,Species management,1041
+911,14,Harvest management,1042
+912,14,Site/area protection,1043
+912,14,Harvest management,1044
+912,14,National level,1045
+912,14,International level,1046
+912,14,Legislation,1047
+912,14,Species management,1048
+913,14,Species management,1049
+913,14,Harvest management,1050
+914,14,Training,1051
+914,14,Site/area protection,1052
+914,14,National level,1053
+914,14,International level,1054
+914,14,Compliance and enforcement,1055
+914,14,Legislation,1056
+915,14,Species management,1057
+915,14,Species recovery,1058
+915,14,Harvest management,1059
+916,14,Site/area protection,1060
+916,14,National level,1061
+916,14,International level,1062
+916,14,Compliance and enforcement,1063
+916,14,Legislation,1064
+916,14,Site/area management,1065
+917,14,Species management,1066
+917,14,Trade management,1067
+917,14,Harvest management,1068
+918,14,Species management,1069
+918,14,Site/area protection,1070
+918,14,Harvest management,1071
+918,14,Resource & habitat protection,1072
+920,14,Site/area protection,1073
+920,14,Harvest management,1074
+920,14,Species recovery,1075
+920,14,Trade management,1076
+920,14,Species management,1077
+921,14,Awareness & communications,1078
+921,14,Harvest management,1079
+921,14,National level,1080
+921,14,Trade management,1081
+921,14,Compliance and enforcement,1082
+921,14,Legislation,1083
+921,14,Species management,1084
+921,14,Site/area management,1085
+924,14,Awareness & communications,1086
+924,14,Site/area protection,1087
+924,14,Harvest management,1088
+924,14,National level,1089
+924,14,International level,1090
+924,14,Trade management,1091
+924,14,Sub-national level,1092
+924,14,Compliance and enforcement,1093
+924,14,Legislation,1094
+924,14,Species management,1095
+926,14,Site/area protection,1096
+926,14,Harvest management,1097
+926,14,National level,1098
+926,14,Trade management,1099
+926,14,Species recovery,1100
+926,14,Compliance and enforcement,1101
+926,14,Policies and regulations,1102
+926,14,Species management,1103
+926,14,Site/area management,1104
+927,14,Species management,1105
+927,14,Site/area protection,1106
+927,14,Harvest management,1107
+937,20,Captive breeding/artificial propagation,1108
+937,20,Site/area protection,1109
+937,20,Species recovery,1110
+937,20,Ex-situ conservation,1111
+937,20,Habitat & natural process restoration,1112
+937,20,Site/area management,1113
+937,20,Genome resource bank,1114
+938,20,Captive breeding/artificial propagation,1115
+938,20,Site/area protection,1116
+938,20,Species recovery,1117
+938,20,Ex-situ conservation,1118
+938,20,Habitat & natural process restoration,1119
+938,20,Site/area management,1120
+938,20,Genome resource bank,1121
+939,3,National level,1122
+939,3,Compliance and enforcement,1123
+939,3,Species recovery,1124
+939,3,Policies and regulations,1125
+942,23,Awareness & communications,1126
+942,23,Captive breeding/artificial propagation,1127
+942,23,Site/area protection,1128
+942,23,Harvest management,1129
+942,23,National level,1130
+942,23,International level,1131
+942,23,Trade management,1132
+942,23,Ex-situ conservation,1133
+942,23,Habitat & natural process restoration,1134
+942,23,Policies and regulations,1135
+942,23,Legislation,1136
+942,23,Species management,1137
+942,23,Site/area management,1138
+942,23,Genome resource bank,1139
+951,12,Site/area management,1140
+951,12,Site/area protection,1141
+956,3,Species management,1142
+956,3,Policies and regulations,1143
+956,3,Harvest management,1144
+962,14,Awareness & communications,1145
+962,14,Training,1146
+962,14,Linked enterprises & livelihood alternatives,1147
+962,14,Site/area protection,1148
+962,14,Harvest management,1149
+962,14,National level,1150
+962,14,Sub-national level,1151
+962,14,Trade management,1152
+962,14,Compliance and enforcement,1153
+962,14,International level,1154
+962,14,Habitat & natural process restoration,1155
+962,14,Legislation,1156
+962,14,Species management,1157
+962,14,Resource & habitat protection,1158
+963,14,Awareness & communications,1159
