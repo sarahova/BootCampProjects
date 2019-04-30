@@ -15,7 +15,7 @@ Enter.....Marine Buddy! There are 2 ways to search for marine life on this app..
 
 ![Country_select](Images/country_select.png)
 
-On the country search page, the user is created with a world map (generated through leaflet). There is a geojson layer with a cliackable countries. Once a country is selected, it turns green and a tool tip pops up with the countries name. An API call to the database is made with the country name as an argument to populate the dropdown menu for marine life categories with categories that are specific to the country selected. Addtionally, a D3 bar graph is populated on the page. The graph displays the number or percent (depending on the axis selected) of species in the country by conservation status. 
+On the country search page, the user is greeted with a world map (generated through leaflet). There is a geojson layer with a clickable countries. Once a country is selected, it turns green and a tool tip pops up with the country's name. An API call to the database is made with the country name as an argument to populate the dropdown menu for marine life categories with categories that are specific to the country selected. Addtionally, a D3 bar graph is populated on the page. The graph displays the number or percent (depending on the axis selected) of species in the country by conservation status. 
 
 ![Country_barometer](Images/country_barometer.gif)
 
@@ -33,7 +33,7 @@ This page is to explore various marine life. The user is created with a dropdown
 
 ![marinelife_barometer](Images/marinelife_barometer.gif)
 
-Along with the bar graph, flip cards populate on the page with all the species in the category selected.The front of the card is a single image of the species. On the back of the card there is: (1) common name, (2) scientific name, (3) depth, (4) population trend, (5) conservation status, (6) a 'call map' button that opens a modal with a world map where the countries hgihlighted in green are where the selected species is prevalent, (7) a button for a modal popup with an image slider.  
+Along with the bar graph, flip cards populate on the page with all the species in the category selected.The front of the card is a single image of the species. On the back of the card there is: (1) common name, (2) scientific name, (3) depth, (4) population trend, (5) conservation status, (6) a 'call map' button that opens a modal with a world map where the countries highlighted in green are where the selected species is prevalent, (7) a button for a modal popup with an image slider.  
 
 ![marinelife_cards](Images/marinelife_cardflip.gif)
 

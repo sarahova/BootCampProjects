@@ -40,7 +40,7 @@ FYI....I know it is not the prettiest app. I think it is safe to say that CSS is
 
 During deployment, I learnt a valuable lesson.....start simple when debugging. Do not go down the rabbit hole, instead step away for a bit!
 
-I kept getting this one error on my Heroky log that I could not get rid of: "bash: gunicorn:: command not found". I tried everything...I revised my requirements.txt, created a new repo, etc. And it would still not go away. I decided to sleep on it. After a good nights sleep dreaming about 404s, it hit me the next morning within 2 seconds of looking at the error again. gunicorn is trying to execute a command ":", I immediately went to my Procfile and saw it!
+I kept getting this one error on my Heroku log that I could not get rid of: "bash: gunicorn:: command not found". I tried everything...I revised my requirements.txt, created a new repo, etc. And it would still not go away. I decided to sleep on it. After a good nights sleep dreaming about 404s, it hit me the next morning within 2 seconds of looking at the error again. gunicorn is trying to execute a command ":", I immediately went to my Procfile and saw it!
 
 When my proc file should have read "web: gunicorn iowa-liquor-sale-summary.app:app", it was reading "web: gunicorn: iowa-liquor-sale-summary.app:app".
 
