@@ -10,11 +10,11 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 
 ### Final graph
 
-The final plot should look as follows:
+My final graph looks like this:
 
 ![Chart](Images/7-animated-scatter.gif)
 
-And include tool tips as follows:
+And it includes tool tips as follows:
 
 ![Tooltip](Images/8-tooltip.gif)
 
